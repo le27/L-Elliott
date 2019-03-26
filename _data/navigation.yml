@@ -3,9 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
-
   - title: "Teaching"
     url: /teaching/
 
@@ -13,4 +10,4 @@ main:
     url: /software/
 
   - title: "CV"
-    url: /files/cv.pdf
+    url: /files/CV_Luke_Elliott.pdf

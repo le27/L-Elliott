@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Stuart A. Burrell"
+title                    : "Luke Elliott"
 title_separator          : "-"
-name                     : &name "Stuart A. Burrell"
+name                     : &name "Luke Elliott"
 description              : &description "PhD Student at the University of St Andrews"
-url                      : https://stuartburrell.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://le27.github.io/lukeelliott.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "stuartburrell.github.io"
+repository               : "lukeelliott.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : ""
   employer         : "Universiy of St Andrews"
   location         :
-  googlescholar    : "https://scholar.google.co.uk/citations?user=DJ74QYQAAAAJ&hl=en"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "stuartburrell"
+  github           : "le27"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-6333-1750"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "burrell_stu"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -178,9 +178,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -230,14 +227,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
