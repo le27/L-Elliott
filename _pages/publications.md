@@ -12,4 +12,4 @@ TODO Add some of these
 
 
 ### Master's Thesis
-[Infinite Symmetric Groups](https://le27.github.io/lukeelliott.github.io//files/Luke_Masters_Dissertation.pdf)
+[Infinite Symmetric Groups](https://le27.github.io/Luke-Elliott/files/Luke_Masters_Dissertation.pdf)

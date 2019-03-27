@@ -11,9 +11,9 @@ title                    : "Luke Elliott"
 title_separator          : "-"
 name                     : &name "Luke Elliott"
 description              : &description "PhD Student at the University of St Andrews"
-url                      : https://le27.github.io/lukeelliott.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://le27.github.io/Luke-Elliott/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lukeelliott.github.io"
+repository               : "Luke-Elliott"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
