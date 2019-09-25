@@ -79,7 +79,8 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "profile.png"
+  avatar           : "kobayashi.jpg"
+  avatar_url       : "https://i.pinimg.com/originals/19/5e/6d/195e6d119a80f770c7e6f4ff567af6b3.jpg"
   bio              : ""
   employer         : "University of St Andrews"
   location         :
