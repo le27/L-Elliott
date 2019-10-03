@@ -24,4 +24,4 @@ Scotland
 Email: le27@st-andrews.ac.uk
 
 ## Other
-[Kobayashi Image](https://i.pinimg.com/originals/19/5e/6d/195e6d119a80f770c7e6f4ff567af6b3.jpg)
+
