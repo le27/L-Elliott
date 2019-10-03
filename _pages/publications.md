@@ -6,7 +6,15 @@ author_profile: true
 
 ### Research Articles
 
-TODO Add some of these
+Currently writing:
+
+With Collin Bleak and James Hyde:
+
+SUFFICIENT CONDITIONS FOR A GROUP OF HOMEOMORPHISMS OF THE CANTOR SET TO  BE TWO-GENERATED
+
+With Julius Jonusas, James Mitchell, Michal Morayne and Yann Peresse:
+
+UNIQUENESS AND NON-UNIQUENESS OF POLISH SEMIGROUP TOPOLOGIES
 
 {% include base_path %}
 
