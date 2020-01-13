@@ -25,3 +25,7 @@ Email: le27@st-andrews.ac.uk
 
 ## Other
 
+The drawing is of Kobayashi from [小林さんちのメイドラゴン](https://en.wikipedia.org/wiki/Miss_Kobayashi%27s_Dragon_Maid) expressing my opinion that the empty set with the empty binary operation should be considered a group.
+ Although the most common definition of group requires an identity, there are many other definitions of a group which are equivalent in all other cases but also allow for the empty group (I beleive many of these definitions are more natural than the generally accepted one).
+ To my knowledge, Kobayashi's opinions on this matter are unknown.
+

@@ -10,11 +10,11 @@ Currently writing:
 
 With Collin Bleak and James Hyde:
 
-SUFFICIENT CONDITIONS FOR A GROUP OF HOMEOMORPHISMS OF THE CANTOR SET TO  BE TWO-GENERATED
+Sufficient conditions for a group of homeomorphims of the Cantor set to be two-generated.
 
 With Julius Jonusas, James Mitchell, Michal Morayne and Yann Peresse:
 
-UNIQUENESS AND NON-UNIQUENESS OF POLISH SEMIGROUP TOPOLOGIES
+[Automatic continuity and uniqueness of Polish semigroup topologies](https://arxiv.org/abs/1912.07029).
 
 {% include base_path %}
 
