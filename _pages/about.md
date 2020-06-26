@@ -25,7 +25,7 @@ Email: le27@st-andrews.ac.uk
 
 ## The Empty Set
 
-My profile picture is a drawing of Kobayashi from [小林さんちのメイドラゴン](https://en.wikipedia.org/wiki/Miss_Kobayashi%27s_Dragon_Maid), expressing my opinion that the empty set with the empty binary operation should be considered a group (Kobayashyi's actual opinions on this matter are unknown to me). This opinion is seemingly uncommon among mathematicians so I will attempt to explain myself a bit here.
+My profile picture is a drawing of Kobayashi from [小林さんちのメイドラゴン](https://en.wikipedia.org/wiki/Miss_Kobayashi%27s_Dragon_Maid), expressing my opinion that the empty set with the empty binary operation should be considered a group (Kobayashi's actual opinions on this matter are unknown to me). This opinion is seemingly uncommon among mathematicians so I will attempt to explain myself a bit here.
 
 The empty set is perhaps the most important object in all of mathematics. It is the only set which has a ZFC axiom dedicated to it (depending on how one fomulates the axiom of infinity), and it is from this set that all other objects in mathematics are constructed. It is also perhaps the only set which is used explicitely in all current areas of maths, even more so than the other finite cardinals (The concept of disjointness is of particular note). Some have complained that the empty set is annoying because it is easy to forget a case in which a set is empty, but if anything I think this only encourages mathematicians to more carefully analyse what it is that they are trying to state or prove.
 
