@@ -35,15 +35,15 @@ A Group is a pair $(G, \*)$ where G is a set and $\*:G \times G \to G$ is a func
 
 1) If x, y and z are elements of G then $(x\*y)\*z= x\*(y\*z)$.
 
-2) There exists $e \in G$ such that for all $x \in G$ we have $e*x=x*e=x$.
+2) There exists $e \in G$ such that for all $x \in G$ we have $e\*x=x\*e=x$.
 
-3) For all $x \in G$ there exists $x ^ -1 \in G$ such that $x\*x^-1=x^-1\*x=e$.
+3) For all $x \in G$ there exists $x ^ -1 \in G$ such that $$x\*x^{-1}=x^{-1}\*x=e.$$
 
 An immediate problem with this definition is that one has to do some work to show that it actually makes sense. In the second condition it is assumed that an element e exists, whereas condidition 3) seems to talk about it as if it is unique. One can verify that it is in fact unique before even needing to understand the third statement, but I would argue that this makes this definition fundamentally inelegant.
 
 It is very easy to tweak this definition to not only obviously make sense, but be shorter, by simply removing the second condition and altering the third one to
 
-4) For all $x \in G$ there exists $x^{-1} \in G$ such that for all $y \in G$: $yx\*x^-1=x^-1\*xy=y$.
+4) For all $x \in G$ there exists $x^{-1} \in G$ such that for all $y \in G$: $$yx\*x^{-1}=x^{-1}\*xy=y.$$
 
 The collection of objects defined here is the same except with the inclusion of the empty group.
 
@@ -51,7 +51,8 @@ Those who do universal algebra sometimes define a group to come with a nullary o
 
 Another consequence of my definition is that is more consistant with the concept of a group as I think of it. I like to think of a group as a semigroup in which one can algebraically "undo" any of their algebraic actions. This is precesicely the concept described by 4). While 4) also holds in the previous definition, it is something which one needs to verify, which creates an unnessecary separation between the definition and the concept it atempts to describe.
 
-A compaint I have heard is that if one allows for the empty group then this damages the concept of a normal subgroup. It is true (and I think pretty cool) that by many definitions of normal, the empty group is a normal subgroup of every group. However what the "cosets" are becomes a bit more uncertain. This is a problem similar to dividing by 0, but one doesn't exclude 0 from being a number (some exclude it from being a natural number but unsurprisingly I'm not a fan of this practice). Like dividing by zero, there are some psudo-solutions to this "problem". The coset of an element $g$ could naturally be consitered to be $\varnothing g(=\varnothing)$ or ${h in G:\varnothing h=\varnothin g}$. I think the latter makes a bit more sense as one still arrives at a partition, but I think quotienting by the empty group should probably simply be avoided as deividing by 0 is. However the fact that quotienting a group by $\varnothing$ doesn't really work I think only encourages one to ask why it does work with non-empty normal subgroups. In most of mathematics the natural thing to quotient an object by is an equivalence relation, and the fact that group quotients are not typically introduced this way can make one see normal subgroups as unnatural objects. When I was first shown that one can quotient a group by a substructure I was quite uncomfortable with the concept, it was only when I was later shown semigroup congruences (which are essentialy defined to work for quotienting) that I saw that normal subgroups arise natually as a way to describe the semigroup congruences on a group. 
+A compaint I have heard is that if one allows for the empty group then this damages the concept of a normal subgroup. It is true (and I think pretty cool) that by many definitions of normal, the empty group is a normal subgroup of every group. However what the "cosets" are becomes a bit more uncertain. This is a problem similar to dividing by 0, but one doesn't exclude 0 from being a number (some exclude it from being a natural number but unsurprisingly I'm not a fan of this practice). Like dividing by zero, there are some psudo-solutions to this "problem".
+The coset of an element $g$ could naturally be consitered to be $\varnothing g(=\varnothing)$ or $\{h \in G:\varnothing h=\varnothing g\}$. I think the latter makes a bit more sense as one still arrives at a partition, but I think quotienting by the empty group should probably simply be avoided as deividing by 0 is. However the fact that quotienting a group by $\varnothing$ doesn't really work I think only encourages one to ask why it does work with non-empty normal subgroups. In most of mathematics the natural thing to quotient an object by is an equivalence relation, and the fact that group quotients are not typically introduced this way can make one see normal subgroups as unnatural objects. When I was first shown that one can quotient a group by a substructure I was quite uncomfortable with the concept, it was only when I was later shown semigroup congruences (which are essentialy defined to work for quotienting) that I saw that normal subgroups arise natually as a way to describe the semigroup congruences on a group. 
 
 When one is a semigroup theorist, the fact that people tend to exclude the empty group can be quite awkward as it prevents one from making any of the following claims which would otherwise be true (in my opinion Defn 2) and Defn 3) are both more natural definitions for a group than the standard):
 
