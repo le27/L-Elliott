@@ -38,6 +38,7 @@ A Group is a pair $(G, \*)$ where G is a set and $\*:G \times G \to G$ is a func
 2) There exists $e \in G$ such that for all $x \in G$ we have $e\*x=x\*e=x$.
 
 3) For all $x \in G$ there exists $x ^ {-1} \in G$ such that:
+
                                          $x\*x^{-1}=x^{-1}\*x=e.$
 
 An immediate problem with this definition is that one has to do some work to show that it actually
@@ -50,7 +51,8 @@ It is very easy to tweak this definition to not only obviously make sense, but b
 removing the second condition and altering the third one to
 
 4) For all $x \in G$ there is $x^{-1} \in G$ such that for all $y \in G$:
-                                       $y\*x\*x^{-1}=x^{-1}\*x\*y=y.$
+
+$y\*x\*x^{-1}=x^{-1}\*x\*y=y.$
 
 The collection of objects defined here is the same except with the inclusion of the empty group.
 
