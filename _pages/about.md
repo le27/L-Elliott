@@ -63,3 +63,8 @@ Defn 4) A group is a regular semigroup with equal idempotents.
 
 From this it seems to me that the natural "group" subclass of semigroups to study would be the one which arises from all 4 of my proposed definitions. Whereas what one usually considers a group whould be the natual "group" subclass of monoids (which are also an interesting class of object, but not by any means a replacement for semigroups). I would encourage people to adopt the notion of group described by the 4 alternative definitions I have introduced here, and accept the empty group for the wonderful object that it is. Thanks for reading :).
 
+## Test
+\(1=1\)
+\[1=1\]
+$$1=1$$
+
