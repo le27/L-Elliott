@@ -8,6 +8,10 @@ author_profile: true
 
 Currently writing:
 
+By myself:
+
+Automorphisms of $nV$.
+
 With Collin Bleak and James Hyde:
 
 Sufficient conditions for a group of homeomorphims of the Cantor set to be two-generated.
