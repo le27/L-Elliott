@@ -39,7 +39,7 @@ A Group is a pair $(G, \*)$ where G is a set and $\*:G \times G \to G$ is a func
 
 3) For all $x \in G$ there exists $x ^ {-1} \in G$ such that:
 
-                                         $x\*x^{-1}=x^{-1}\*x=e.$
+$x\*x^{-1}=x^{-1}\*x=e.$
 
 An immediate problem with this definition is that one has to do some work to show that it actually
 makes sense. In the second condition it is assumed that an element e exists, whereas condidition 3
