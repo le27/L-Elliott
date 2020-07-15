@@ -31,7 +31,7 @@ The empty set is perhaps the most important object in all of mathematics. It is 
 
 The importance of the empty set is surpassed only by its simplicity. By definition, it lacks anything potentially complex. It is in finding simultaneously simple and powerful ideas that one finds beauty in mathematics. In this sense, the empty set is also the most beautiful object in mathematics. Another way in which mathematics excels is in taking seemingly unrelated concepts and showing that they are in fact fundamentally similar. It is for this reason that mathematicians spend a lot of time trying to generalise their concepts whenever possible. On the topic of groups in particular, when one first encounters groups they are often introduced as follows:
 
-A Group is a pair (G, \*) where G is a set and \*:GxG->G is a function satisfying the following conditions:
+A Group is a pair $(G, \*)$ where G is a set and $\*:G \times G \to G$ is a function satisfying the following conditions:
 
 1) If x, y and z are elements of G then (x\*y)\*z= x\*(y\*z).
 
@@ -63,8 +63,4 @@ Defn 4) A group is a regular semigroup with equal idempotents.
 
 From this it seems to me that the natural "group" subclass of semigroups to study would be the one which arises from all 4 of my proposed definitions. Whereas what one usually considers a group whould be the natual "group" subclass of monoids (which are also an interesting class of object, but not by any means a replacement for semigroups). I would encourage people to adopt the notion of group described by the 4 alternative definitions I have introduced here, and accept the empty group for the wonderful object that it is. Thanks for reading :).
 
-## Test
-\(1=1\)
-\[1=1\]
-$$1=1$$
 
