@@ -43,7 +43,7 @@ An immediate problem with this definition is that one has to do some work to sho
 
 It is very easy to tweak this definition to not only obviously make sense, but be shorter, by simply removing the second condition and altering the third one to
 
-4) For all $x \in G$ there is $x^{-1} \in G$ such that for all $y \in G$: $yx\*x^{-1}=x^{-1}\*xy=y.$
+4) For all $x \in G$ there is $x^{-1} \in G$ such that for all $y \in G$: $y\*x\*x^{-1}=x^{-1}\*x\*y=y.$
 
 The collection of objects defined here is the same except with the inclusion of the empty group.
 
