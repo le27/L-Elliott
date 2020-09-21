@@ -6,11 +6,11 @@ author_profile: true
 
 ### Research Articles
 
-3. [A Description of Aut(dVn) and Out(dVn) Using Transducers](https://arxiv.org/abs/2009.05450)
+3 [A Description of Aut(dVn) and Out(dVn) Using Transducers](https://arxiv.org/abs/2009.05450)
 
-2. [(with Collin Bleak and James Hyde) Sufficient conditions for a group of homeomorphisms of the Cantor set to be two-generated](https://arxiv.org/abs/1912.07029)
+2 [(with Collin Bleak and James Hyde) Sufficient conditions for a group of homeomorphisms of the Cantor set to be two-generated](https://arxiv.org/abs/1912.07029)
 
-1. [(with J. Jonušas, Z. Mesyan, J. D. Mitchell, M. Morayne, and Y. Péresse) Automatic continuity, unique Polish topologies, and Zariski topologies (part I, monoids)](https://arxiv.org/abs/1912.07029)
+1 [(with J. Jonušas, Z. Mesyan, J. D. Mitchell, M. Morayne, and Y. Péresse) Automatic continuity, unique Polish topologies, and Zariski topologies (part I, monoids)](https://arxiv.org/abs/1912.07029)
 
 {% include base_path %}
 
