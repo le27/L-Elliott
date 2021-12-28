@@ -7,9 +7,9 @@ author_profile: true
 ### Research Articles
 
 [Luke Elliott. Unindexed subshifts of finite type and their connection to automorphisms of
-T hompson’s groups, 2021.](https://arxiv.org/abs/2112.13359)
+Thompson’s groups, 2021.](https://arxiv.org/abs/2112.13359)
 
-[L. Elliott, J. Jonu ŝ as, Z. Mesyan, J. D. Mitchell, M. Morayne, and Y. P é resse. Automatic
+[L. Elliott, J. Jonuŝas, Z. Mesyan, J. D. Mitchell, M. Morayne, and Y. Péresse. Automatic
 continuity, unique Polish topologies, and Zariski topologies on monoids and clones,
 s ubmitted 2021](https://arxiv.org/abs/1912.07029)
 
