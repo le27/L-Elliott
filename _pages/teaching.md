@@ -36,5 +36,3 @@ MT2502 Analysis Tutoring
 Semester 1:
 
 MT2501 Linear Mathematics Tutoring
-
-MT2502 Analysis Tutoring
