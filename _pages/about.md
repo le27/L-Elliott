@@ -12,7 +12,7 @@ redirect_from:
 I am a PhD student in pure mathematics and part of the [algebra research group](http://www.mcs.st-and.ac.uk/pg/pure/Algebra/) at the University of St Andrews.
 
 My current research is supervised by [Dr Collin Bleak](http://www-groups.mcs.st-andrews.ac.uk/~collin/) and
-[Dr James D. Mitchell](http://www-groups.mcs.st-andrews.ac.uk/~jamesm/).
+[Prof James D. Mitchell](http://www-groups.mcs.st-andrews.ac.uk/~jamesm/).
 
 ## Contact details
 
