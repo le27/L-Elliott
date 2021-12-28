@@ -6,11 +6,17 @@ author_profile: true
 
 ### Research Articles
 
-3 [(by myself) A Description of Aut(dVn) and Out(dVn) Using Transducers](https://arxiv.org/abs/2009.05450)
+[Luke Elliott. Unindexed subshifts of finite type and their connection to automorphisms of
+T hompson’s groups, 2021.](https://arxiv.org/abs/2112.13359)
 
-2 [(with Collin Bleak and James Hyde) Sufficient conditions for a group of homeomorphisms of the Cantor set to be two-generated](https://arxiv.org/abs/2008.04791)
+[L. Elliott, J. Jonu ŝ as, Z. Mesyan, J. D. Mitchell, M. Morayne, and Y. P é resse. Automatic
+continuity, unique Polish topologies, and Zariski topologies on monoids and clones,
+s ubmitted 2021](https://arxiv.org/abs/1912.07029)
 
-1 [(with J. Jonušas, Z. Mesyan, J. D. Mitchell, M. Morayne, and Y. Péresse) Automatic continuity, unique Polish topologies, and Zariski topologies (part I, monoids)](https://arxiv.org/abs/1912.07029)
+[Luke Elliott. A description of Aut(dVn) and Out(dVn) using transducers, submitted, 2020.](https://arxiv.org/abs/2009.05450)
+
+[Collin Bleak, Luke Elliott, and James Hyde. Sufficient conditions for a group of
+homeomorphisms of the cantor set to be two generated, submitted, 2020.](https://arxiv.org/abs/2008.04791)
 
 {% include base_path %}
 
