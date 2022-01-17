@@ -1,8 +1,9 @@
 ---
-title: "Software Contributions"
-permalink: /software/
+title: "Talks"
+permalink: /talks/
 author_profile: true
 ---
+{% include base_path %}
 
 Removing indexing from shift spaces: Pure Postgraduate Seminar (St Andrews) 2021
 Removing indexing from shift spaces: Algebra and combinatorics seminar (St Andrews)
