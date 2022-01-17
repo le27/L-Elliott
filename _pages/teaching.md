@@ -7,14 +7,15 @@ author_profile: true
 
 ## [St Andrews School of Mathematics and Statistics](https://www.st-andrews.ac.uk/maths/)
 
-### Academic Year 2018-2019
+### Academic Year 2021-2022
 Semester 1:
 
 MT2501 Linear Mathematics Tutoring
 
-Semester 2:
+### Academic Year 2020-2021
+Semester 1:
 
-MT2505 Abstract Algebra Tutoring
+MT2502 Analysis Tutoring
 
 ### Academic Year 2019-2020
 Semester 1:
@@ -27,12 +28,14 @@ Semester 2:
 
 MT2505 Abstract Algebra Tutoring
 
-### Academic Year 2020-2021
-Semester 1:
-
-MT2502 Analysis Tutoring
-
-### Academic Year 2021-2022
+### Academic Year 2018-2019
 Semester 1:
 
 MT2501 Linear Mathematics Tutoring
+
+Semester 2:
+
+MT2505 Abstract Algebra Tutoring
+
+
+
