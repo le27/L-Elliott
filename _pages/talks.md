@@ -5,6 +5,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+Unindexed subshifts of finite type: Analysis Seminar (Glasgow) 2022
+
 Removing indexing from shift spaces: Pure Postgraduate Seminar (St Andrews) 2021
 
 Removing indexing from shift spaces: Algebra and combinatorics seminar (St Andrews)
