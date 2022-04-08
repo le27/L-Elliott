@@ -1,12 +1,9 @@
 ---
-permalink: /
-title: "Biography"
-excerpt: "About me"
+title: "CV"
+permalink: /CV/
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
-  -
 ---
 
-https://le27.github.io/Luke-Elliott/files/CV_Luke_Elliott_december2021.pdf
+### [Maths](https://le27.github.io/Luke-Elliott/files/CV_Maths.pdf)
+
+### [Programming](https://le27.github.io/Luke-Elliott/files/CV_Prog.pdf)
