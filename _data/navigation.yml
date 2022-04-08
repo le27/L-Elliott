@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Software"
+    url: /software/
+
   - title: "Teaching"
     url: /teaching/
 
   - title: "Talks"
     url: /talks/
 
-  - title: "Software"
-    url: /software/
-
   - title: "CV"
-    url: /files/CV_Luke_Elliott.pdf
+    url: /CV/
