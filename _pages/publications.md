@@ -6,17 +6,17 @@ author_profile: true
 
 ### Research Articles
 
-[Luke Elliott. Unindexed subshifts of finite type and their connection to automorphisms of
-Thompson’s groups, 2021.](https://arxiv.org/abs/2112.13359)
+[L. Elliott, J. Jonu?as, J. D. Mitchell, Y. P?resse, and M. Pinsker. Polish topologies on endomorphism monoids of relational structures, submitted, 2022](https://arxiv.org/abs/2203.11577)
 
-[L. Elliott, J. Jonuŝas, Z. Mesyan, J. D. Mitchell, M. Morayne, and Y. Péresse. Automatic
-continuity, unique Polish topologies, and Zariski topologies on monoids and clones,
-s ubmitted 2021](https://arxiv.org/abs/1912.07029)
+[J. Belk, L. Elliott, and F. Matucci. A short proof of Rubin's theorem, submitted, 2022](https://arxiv.org/abs/2203.05930)
 
-[Luke Elliott. A description of Aut(dVn) and Out(dVn) using transducers, submitted, 2020.](https://arxiv.org/abs/2009.05450)
+[L. Elliott. Unindexed subshifts of finite type and their connection to automorphisms of Thompson�fs groups, 2021](https://arxiv.org/abs/2112.13359)
 
-[Collin Bleak, Luke Elliott, and James Hyde. Sufficient conditions for a group of
-homeomorphisms of the cantor set to be two generated, submitted, 2020.](https://arxiv.org/abs/2008.04791)
+[L. Elliott, J. Jonu?as, Z. Mesyan, J. D. Mitchell, M. Morayne, and Y. P?resse. Automatic continuity, unique Polish topologies, and Zariski topologies on monoids and clones, submitted, 2021](https://arxiv.org/abs/1912.07029)
+
+[L. Elliott. A description of Aut(dVn) and Out(dVn) using transducers, Accepted by GGD](https://arxiv.org/abs/2009.05450)
+
+[C. Bleak, L. Elliott, and J. Hyde. Sufficient conditions for a group of homeomorphisms of the cantor set to be two-generated, submitted, 2020](https://arxiv.org/abs/2008.04791)
 
 {% include base_path %}
 

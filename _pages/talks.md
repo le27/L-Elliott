@@ -5,6 +5,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+A connection between thompsons groups and subshifts of finite type: Algebra seminar (Binghamton) 2022
+
 Unindexed subshifts of finite type: Analysis Seminar (Glasgow) 2022
 
 Removing indexing from shift spaces: Pure Postgraduate Seminar (St Andrews) 2021
