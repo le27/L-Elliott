@@ -6,13 +6,13 @@ author_profile: true
 
 ### Research Articles
 
-[L. Elliott, J. Jonu?as, J. D. Mitchell, Y. P?resse, and M. Pinsker. Polish topologies on endomorphism monoids of relational structures, submitted, 2022](https://arxiv.org/abs/2203.11577)
+[L. Elliott, J. Jonusas, J. D. Mitchell, Y. Peresse, and M. Pinsker. Polish topologies on endomorphism monoids of relational structures, submitted, 2022](https://arxiv.org/abs/2203.11577)
 
 [J. Belk, L. Elliott, and F. Matucci. A short proof of Rubin's theorem, submitted, 2022](https://arxiv.org/abs/2203.05930)
 
-[L. Elliott. Unindexed subshifts of finite type and their connection to automorphisms of ThompsonÅfs groups, 2021](https://arxiv.org/abs/2112.13359)
+[L. Elliott. Unindexed subshifts of finite type and their connection to automorphisms of Thompsons groups, 2021](https://arxiv.org/abs/2112.13359)
 
-[L. Elliott, J. Jonu?as, Z. Mesyan, J. D. Mitchell, M. Morayne, and Y. P?resse. Automatic continuity, unique Polish topologies, and Zariski topologies on monoids and clones, submitted, 2021](https://arxiv.org/abs/1912.07029)
+[L. Elliott, J. Jonusas, Z. Mesyan, J. D. Mitchell, M. Morayne, and Y. P?resse. Automatic continuity, unique Polish topologies, and Zariski topologies on monoids and clones, submitted, 2021](https://arxiv.org/abs/1912.07029)
 
 [L. Elliott. A description of Aut(dVn) and Out(dVn) using transducers, Accepted by GGD](https://arxiv.org/abs/2009.05450)
 
