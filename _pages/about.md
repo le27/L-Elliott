@@ -13,12 +13,7 @@ I like math.
 
 ## Contact details
 
-School of Mathematics and Statistics  
-The University of St Andrews  
-St Andrews  
-KY16 9SS  
-Scotland  
-Email: le27@st-andrews.ac.uk
+Email: luke.elliott142857@gmail.com
 
 ## The Empty Set
 
