@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Luke Elliott"
 title_separator          : "-"
 name                     : &name "Luke Elliott"
-description              : &description "PhD Student at the University of St Andrews"
+description              : &description ""
 url                      : https://le27.github.io/Luke-Elliott # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Luke-Elliott"
@@ -82,7 +82,7 @@ author:
   avatar           : "kobayashi.jpg"
   avatar_url       : "https://i.pinimg.com/originals/19/5e/6d/195e6d119a80f770c7e6f4ff567af6b3.jpg"
   bio              : ""
-  employer         : "University of St Andrews"
+  employer         : "University of Binghamton New York"
   location         :
   googlescholar    : 
   email            :
