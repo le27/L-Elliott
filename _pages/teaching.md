@@ -7,10 +7,16 @@ author_profile: true
 
 ## [Binghamton Department of Mathematics and Statistics](https://www2.math.binghamton.edu/p/start)
 ### Academic Year 2022-2023
-Semester 1:
-304 Linear algebra 2 classes (9hours of teaching a week + office hours + writing exams + various other small tasks)
+#Semester 1:
+304 Linear algebra:
+2 classes (9 hours of teaching a week + office hours + writing and grading exams and quizzes +)
 
-## [St Andrews School of Mathematics and Statistics](https://www.st-andrews.ac.uk/maths/)
+#Semester 2:
+304 Linear algebra:
+1 class (4.5 hours of teaching a week + office hours + writing and grading exams and quizzes +)
+
+
+# [St Andrews School of Mathematics and Statistics](https://www.st-andrews.ac.uk/maths/)
 
 ### Academic Year 2021-2022
 Semester 1:

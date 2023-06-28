@@ -5,6 +5,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+Finite presentability of Thompson monoids: Algebra seminar (Manchester) 2023
+
 A connection between thompsons groups and subshifts of finite type: Algebra seminar (Binghamton) 2022
 
 Unindexed subshifts of finite type: Analysis Seminar (Glasgow) 2022
