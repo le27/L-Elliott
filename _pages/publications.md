@@ -4,7 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Research Articles
+### The following Research Articles Are Either Accepted Or Submitted:
+
 
 [de Witt, Bill, and Luke Elliott. Finite Presentability of Brin-Higman-Thompson Monoids via Free J\'onsson-Tarski Algebras, 2023](https://arxiv.org/abs/2303.16044)
 
