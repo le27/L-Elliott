@@ -9,11 +9,8 @@ author_profile: true
 
 ### Academic Year 2022-2023
 #Semester 1:
-304 Linear algebra:
-1 class (4.5 hours of teaching a week + office hours + writing and grading exams and quizzes +)
-
-330 Number Systems:
-1 class (4.5 hours of teaching a week + office hours + writing and grading exams and homeworks +)
+304 Linear algebra and 330 Number Systems:
+1 class of each module (9 hours of teaching a week + office hours + writing and grading exams, quizzes, and homeworks +)
 
 
 ### Academic Year 2022-2023
