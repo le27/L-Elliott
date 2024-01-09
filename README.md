@@ -1,1 +1,1 @@
-Academic website: see https://le27.github.io/Luke-Elliott/
+Academic website: see https://le27.github.io/L-Elliott/
