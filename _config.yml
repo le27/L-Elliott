@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Luke Elliott"
+title                    : "Luna Elliott (aka Luke Elliott)"
 title_separator          : "-"
-name                     : &name "Luke Elliott"
+name                     : &name "Luna Elliott"
 description              : &description ""
-url                      : https://le27.github.io/Luke-Elliott # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://le27.github.io/L-Elliott # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Luke-Elliott"
+repository               : "L-Elliott"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
