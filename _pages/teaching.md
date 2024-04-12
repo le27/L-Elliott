@@ -12,7 +12,6 @@ author_profile: true
 130 Math in Action:
 Course coordinator and lecurer (3 hours of teaching a week + office hours + writing and grading exams, writing quizzes +)
 
-
 #Semester 1:
 304 Linear algebra and 330 Number Systems:
 1 class of each module (9 hours of teaching a week + office hours + writing and grading exams, quizzes, and homeworks +)
