@@ -8,13 +8,13 @@ author_profile: true
 ## [Binghamton Department of Mathematics and Statistics](https://www2.math.binghamton.edu/p/start)
 
 ### Academic Year 2023-2024
-#Semester 2:
-130 Math in Action:
-Course coordinator and lecurer (3 hours of teaching a week + office hours + writing and grading exams, writing quizzes +)
-
 #Semester 1:
 304 Linear algebra and 330 Number Systems:
 1 class of each module (9 hours of teaching a week + office hours + writing and grading exams, quizzes, and homeworks +)
+
+#Semester 2:
+130 Math in Action:
+Course coordinator and lecurer (3 hours of teaching a week + office hours + writing and grading exams, writing quizzes +)
 
 
 ### Academic Year 2022-2023
