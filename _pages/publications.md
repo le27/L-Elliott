@@ -7,6 +7,10 @@ author_profile: true
 ### The following Research Articles Are Either Accepted Or Submitted:
 
 
+[Serhii Bardyla, Luna Elliott, James Mitchell, Yann P?resse. Classifying the Polish semigroup topologies on the symmetric inverse monoid, 2024](https://arxiv.org/abs/2405.20134)
+
+[Luna Elliott, Alex Levine, James Mitchell. E-disjunctive inverse semigroups, 2024](https://arxiv.org/abs/2405.19825)
+
 [de Witt, Bill, and Luke Elliott. Finite Presentability of Brin-Higman-Thompson Monoids via Free J\'onsson-Tarski Algebras, 2023](https://arxiv.org/abs/2303.16044)
 
 [Bardyla, S., Elliott, L., Mitchell, J. D., & Peresse, Y, Topological embeddings into transformation monoids, 2023](https://arxiv.org/abs/2302.08988)

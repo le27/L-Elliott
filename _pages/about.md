@@ -9,7 +9,7 @@ redirect_from:
   -
 ---
 
-I like math.
+I like math. I go by she/her.
 
 ## Contact details
 
