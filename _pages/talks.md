@@ -5,6 +5,20 @@ author_profile: true
 ---
 {% include base_path %}
 
+Last updated 28/05/2025
+
+The rational group and automorphisms of Thompson's group V: Semigroup seminar (Manchester) 2025
+
+Epic Groups: Himr seminar (Manchester) 2025
+
+Finding topologies for semigroups: Semigroups, Automata and Languages seminar (Porto) 2024
+
+Finding topologies for semigroups: Semigroup seminar (Manchester) 2024
+
+E-disjunctive inverse semigroups: NBSAN (Manchester) 2024
+
+Semigroup Theory: Algebra seminar (Binghamton) 2024
+
 Finite presentability of Thompson monoids: Algebra seminar (Manchester) 2023
 
 A connection between thompsons groups and subshifts of finite type: Algebra seminar (Binghamton) 2022
