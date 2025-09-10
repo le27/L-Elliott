@@ -7,15 +7,16 @@ author_profile: true
 Last updated 25/02/2025
 
 ### Research Articles:
+1. [Serhii Bardyla, Luna Elliott, James Mitchell, Yann Peresse. A note on intrinsic topologies of groups, 2025](https://arxiv.org/abs/2506.11500)
 
-1. [Alex Levine, Luna Elliott. The Diophantine problem in Thompson's group F, 2025](https://arxiv.org/abs/2502.14970)
+1. [Alex Levine, Luna Elliott. The Diophantine problem in Thompson's group F, 2025](https://arxiv.org/abs/2502.14970)[Accepted by the American Mathematical Society]
 
 13. [Raad Al Kohli, Collin Bleak, Luna Elliott. On epiC groups over language class C, 2025](https://arxiv.org/abs/2501.10259)
 
 12. [Luna Elliott, Alex Levine, James D. Mitchell. Computing congruences of finite inverse semigroups, 2024](https://arxiv.org/abs/2406.09281)
 [Submitted to the Journal of the Australian Mathematical Society]
 
-11. [Serhii Bardyla, Luna Elliott, James Mitchell, Yann P?resse. Classifying the Polish semigroup topologies on the symmetric inverse monoid, 2024](https://arxiv.org/abs/2405.20134)
+11. [Serhii Bardyla, Luna Elliott, James Mitchell, Yann Peresse. Classifying the Polish semigroup topologies on the symmetric inverse monoid, 2024](https://arxiv.org/abs/2405.20134)
 [Submitted to the Edinburgh Mathematical Society]
 
 10. [Luna Elliott, Alex Levine, James Mitchell. E-disjunctive inverse semigroups, 2024](https://arxiv.org/abs/2405.19825)
