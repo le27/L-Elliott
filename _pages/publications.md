@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated 25/02/2025
+Last updated 10/09/2025
 
 ### Research Articles:
 1. [Serhii Bardyla, Luna Elliott, James Mitchell, Yann Peresse. A note on intrinsic topologies of groups, 2025](https://arxiv.org/abs/2506.11500)
