@@ -15,6 +15,8 @@ I like math. I go by she/her. I don't update my website that often so the list o
 
 [ORCID Profile](https://orcid.org/0000-0002-3584-7266)
 
+[zbMath Profile](https://zbmath.org/authors/elliott.luna)
+
 ## Contact details
 
 Email: luna.elliott142857@gmail.com
