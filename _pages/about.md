@@ -12,6 +12,7 @@ redirect_from:
 I like math. I go by she/her. I don't update my website that often so the list of papers for me [here](https://scholar.google.com/citations?user=3ZObZk0AAAAJ) is likely to be more complete and up to date.
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=3ZObZk0AAAAJ)
+
 [ORCID Profile](https://orcid.org/0000-0002-3584-7266)
 
 ## Contact details
