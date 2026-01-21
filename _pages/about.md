@@ -17,6 +17,8 @@ I like math. I go by she/her. I don't update my website that often so the list o
 
 [zbMath Profile](https://zbmath.org/authors/elliott.luna)
 
+As of 21/01/2026 I appear to have an [erdos number](https://zbmath.org/collaboration-distance/?a=elliott.luna&b=erdos.paul) of 3.
+
 ## Contact details
 
 Email: luna.elliott142857@gmail.com
