@@ -23,7 +23,10 @@ As of 21/01/2026 I appear to have an [erdos number](https://zbmath.org/collabora
 
 Email: luna.elliott142857@gmail.com
 
-## The Empty Set
+## Rants
+
+### The Empty Set
+I wrote the following text as a PhD student. The reasoning is out of date but the spirit of the message remains true.
 
 My profile picture is a drawing of Kobayashi from [小林さんちのメイドラゴン](https://en.wikipedia.org/wiki/Miss_Kobayashi%27s_Dragon_Maid), expressing my opinion that the empty set with the empty binary operation should be considered a group (Kobayashi's actual opinions on this matter are unknown to me). This opinion is seemingly uncommon among mathematicians so I will attempt to explain myself a bit here.
 
