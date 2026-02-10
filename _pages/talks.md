@@ -5,7 +5,11 @@ author_profile: true
 ---
 {% include base_path %}
 
-Last updated 28/05/2025
+Last updated 10/02/2026
+
+Topologizing Endomorphism Monoids: AAA (Vienna) 2026
+
+Thompson Monoids: NBSAN (Durham) 2025
 
 The rational group and automorphisms of Thompson's group V: Semigroup seminar (Manchester) 2025
 
