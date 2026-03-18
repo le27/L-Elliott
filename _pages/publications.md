@@ -65,10 +65,12 @@ Last updated 18/03/2026
 
 3. S Bardyla
 
-4. S Bardyla + Y Peresse
+4.  S Bardyla
 
-5. A Evetts + A Levine
+5. S Bardyla + Y Peresse
 
-6. R Cirpons + A Levine + J Mitchell
+6. A Evetts + A Levine
 
-7. N Kolodny
+7. R Cirpons + A Levine + J Mitchell
+
+8. N Kolodny
