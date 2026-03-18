@@ -55,3 +55,20 @@ Last updated 24/01/2026
 
 ### PhD Thesis
 [On constructing topology from algebra](https://le27.github.io/Luke-Elliott/files/Thesis%20subaru.pdf)
+
+
+#### Currently collaborating with
+
+1. G Crowe
+
+2. S Bardyla
+
+3. S Bardyla
+
+4. S Bardyla + Y Peresse
+
+5. A Evetts + A Levine
+
+6. R Cirpons + A Levine + J Mitchell
+
+7. N Kolodny
