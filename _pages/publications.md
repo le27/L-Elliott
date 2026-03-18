@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated 24/01/2026
+Last updated 18/03/2026
 
 ### Research Articles:
 1. [L Elliott, The Zariski Topology on Homeomorphism groups, 2026](https://arxiv.org/abs/2601.15185)
@@ -18,7 +18,7 @@ Last updated 24/01/2026
 12. [L Elliott, A Levine, J Mitchell. Computing congruences of finite inverse semigroups, 2024](https://arxiv.org/abs/2406.09281)
 
 11. [S Bardyla, L Elliott, J Mitchell, Y Peresse. Classifying the Polish semigroup topologies on the symmetric inverse monoid, 2024](https://arxiv.org/abs/2405.20134)
-[Accepted by Proceedings of the Edinburgh Mathematical Society]
+[Published in Proceedings of the Edinburgh Mathematical Society](https://doi.org/10.1017/S0013091525101302)
 
 10. [L Elliott, A Levine, J Mitchell. E-disjunctive inverse semigroups, 2024](https://arxiv.org/abs/2405.19825)
 [Published in Journal of Algebra](https://doi.org/10.1016/j.jalgebra.2025.08.041)
