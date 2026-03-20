@@ -4,12 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated 18/03/2026
+Last updated 20/03/2026
 
 ### Research Articles:
-1. [L Elliott, The Zariski Topology on Homeomorphism groups, 2026](https://arxiv.org/abs/2601.15185)
+1. [L Elliott, The Zariski Topology on Homeomorphism groups, 2026](https://arxiv.org/abs/2601.15185)[Submitted to Topology and its Applications]
 
-1. [S Bardyla, L Elliott, J Mitchell, Y Peresse. A note on intrinsic topologies of groups, 2025](https://arxiv.org/abs/2506.11500)
+1. [S Bardyla, L Elliott, J Mitchell, Y Peresse. A note on intrinsic topologies of groups, 2025](https://arxiv.org/abs/2506.11500)[Submitted to Journal of Algebra]
 
 1. [A Levine, L Elliott. The Diophantine problem in Thompson's group F, 2025](https://arxiv.org/abs/2502.14970) [Published in Mathematics of Computation](https://doi.org/10.1090/mcom/4113)
 
@@ -23,7 +23,7 @@ Last updated 18/03/2026
 10. [L Elliott, A Levine, J Mitchell. E-disjunctive inverse semigroups, 2024](https://arxiv.org/abs/2405.19825)
 [Published in Journal of Algebra](https://doi.org/10.1016/j.jalgebra.2025.08.041)
 
-9. [B de Witt, and L Elliott. Finite Presentability of Brin-Higman-Thompson Monoids via Free J\'onsson-Tarski Algebras, 2023](https://arxiv.org/abs/2303.16044)
+9. [B de Witt, and L Elliott. Finite Presentability of Brin-Higman-Thompson Monoids via Free J\'onsson-Tarski Algebras, 2023](https://arxiv.org/abs/2303.16044)[Submitted to Semigroup Forum]
 
 8. [S Bardyla, L Elliott, J Mitchell, Y Peresse, Topological embeddings into transformation monoids, 2023](https://arxiv.org/abs/2302.08988)
 [Published in Forum Mathematicum](https://doi.org/10.1515/forum-2023-0230)
