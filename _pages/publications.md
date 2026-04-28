@@ -59,20 +59,7 @@ Last updated 28/04/2026
 [On constructing topology from algebra](https://le27.github.io/Luke-Elliott/files/Thesis%20subaru.pdf)
 
 
-#### Currently collaborating on papers with
+### Other random info luna wanted to track:
+Currently working on more projects with the following authors [L Elliott], [L Elliott + G Crowe], [L Elliott + S Bardyla]x3, [L Elliott + S Bardyla + Y Peresse], [L Elliott + A Levine], [L Elliott + R Cirpons + A Levine + J Mitchell], [L Elliott + N Kolodny].
 
-1. G Crowe
-
-2. S Bardyla
-
-3. S Bardyla
-
-4. S Bardyla
-
-5. S Bardyla + Y Peresse
-
-6. A Levine
-
-7. R Cirpons + A Levine + J Mitchell
-
-8. N Kolodny
+Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+11+43}{17} \approx 23.94$$ pages.
