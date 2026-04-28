@@ -4,9 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated 20/03/2026
+Last updated 28/04/2026
 
 ### Research Articles:
+1. [L Elliott, A Evetts, A Levine. Counting Automorphic Orbits in Finitely Generated Groups](https://arxiv.org/abs/2604.18104)
+
 1. [L Elliott, The Zariski Topology on Homeomorphism groups, 2026](https://arxiv.org/abs/2601.15185)[Submitted to Topology and its Applications]
 
 1. [S Bardyla, L Elliott, J Mitchell, Y Peresse. A note on intrinsic topologies of groups, 2025](https://arxiv.org/abs/2506.11500)[Submitted to Journal of Algebra]
@@ -57,7 +59,7 @@ Last updated 20/03/2026
 [On constructing topology from algebra](https://le27.github.io/Luke-Elliott/files/Thesis%20subaru.pdf)
 
 
-#### Currently collaborating with
+#### Currently collaborating on papers with
 
 1. G Crowe
 
@@ -65,11 +67,11 @@ Last updated 20/03/2026
 
 3. S Bardyla
 
-4.  S Bardyla
+4. S Bardyla
 
 5. S Bardyla + Y Peresse
 
-6. A Evetts + A Levine
+6. A Levine
 
 7. R Cirpons + A Levine + J Mitchell
 
