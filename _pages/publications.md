@@ -66,6 +66,20 @@ Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+11+43}
 
 Articles that have cited Luna's papers as of 05/05/2026 (excluding papers aleady mentioned above):
 
+1. [KDA Romero, El semigrupo inverso simétrico, el teorema de Pettis y la continuidad automática](https://noesis.uis.edu.co/server/api/core/bitstreams/81397d29-b6e9-417a-8414-decea3fb0ad7/content)
+
+1. [YA Neretin, Groups of isometries of ultrametric Urysohn spaces and their unitary representations](https://arxiv.org/pdf/2212.02607)
+
+1. [KL Kozlov, AG Leiderman, On proper compactifications of topological groups](https://arxiv.org/pdf/2604.23201)
+
+1. [J Perez and C Uzcategui, Topologies on the symmetric inverse semigroup](https://arxiv.org/pdf/2012.03041)
+
+1. [G Goffer and B Greenfeld, A note on the Zariski topology on groups and semigroups](https://arxiv.org/pdf/2312.17727)
+
+1. [T Banakh and S Bardyla, Categorically closed countable semigroups](https://arxiv.org/pdf/2111.14154)
+
+1. [M Hampenberg Christensen, Submonoids of Infinite Symmetric Inverse Monoids](https://arxiv.org/pdf/2509.04200)
+
 1. [B Cameron, Abstract ping-pong systems in subgroups of Thompson’s groups](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/33513/Thesis-Bromlyn-Cameron-complete-version.pdf?sequence=5&isAllowed=y)
 
 1. [R Gorazd, Higman–Thompson groups of unfolding trees of rooted graphs](https://openresearch.newcastle.edu.au/ndownloader/files/55942097)
@@ -93,7 +107,7 @@ Articles that have cited Luna's papers as of 05/05/2026 (excluding papers aleady
 1. [C Schindler, Semigroup topologies on endomorphism
 monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/20.500.12708/193465/1/Schindler%20Clemens%20-%202023%20-%20Semigroup%20topologies%20on%20endomorphism%20monoids%20of...pdf)
 
-1. [D Yang and W Yang, Homomorphism-homogeneous finite semilattices](https://pdf.sciencedirectassets.com/272332/1-s2.0-S0021869326X20099/1-s2.0-S0021869326002267/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIGWX47fy8x0nEd1HG8cDHi%2FVIp9g9f20cBFhSZceJeGNAiEAzZbbn3oqQ0omd8yeT7gpaC1suPWEBLpXwcmt0fSqFl0quwUIjv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDH4X4pANgsE%2B4fZTWSqPBdFEdjgt1eMDQeVkr7ZivTgd92Dp4CF9Jqa8hwV7KE0K0kUqK2tnjdu9wy6vpNJGtH4ZhaqpMjBpw9FgIkVk2vWh3tSj%2FN3hQzcI9cxju2logo1tqHcikp5oyY51%2BIY4badX%2F1Q%2BwWC0I7NEK2ymmgWaMNgvPlYlz9GQ6Unx2Qcskr2BdfycyUapTpqG%2BA1TGHNZkrvVjPvXco8ByBoSBGQiQHnBv6cQ9MmZ89%2Bt1yHg41krJ4WJX%2BxRlh4M3zSxOFtXb2I4t0svDn4w7FWN22fhyGyGp5qfw%2FGi8WdqzAhvafMCdNFUd5AwCDq0Y%2BF4n9c5em3CAroYp2rAPwnxpvE5BaDWz3l6ccixj1TW3dukur4tJY%2FIdGjiScUxey3luyxg99911Kw2T96%2Ft3awXIicl%2BqdsONM19zkCKZGsSrqagJ8530ZJZ5E7T6v5RAKOlSmpOob0xjehAFoUPT1Jd%2B9%2FfXO1788a7EKEIkmkOI48TovPaC96FrYjQ26qMMxe3Uw7i49o60kK%2FxBf1Wb6wdaIY9O6BC2FJcKJBf2hrn%2FokaocVXPZ8KpVsJHTSbbdiiXWl%2FRNT8YEfA6bQNrY9NQXlduF8mILrMMJQcO2ryfVGal4YKILJoW1IsNXQwUCfdv%2BD3Kx3XGs9R2kuVl1cDqXxziCXt4JPB%2FapIacmBnLbhPxxOIW4%2FA3oLGwZO2mUayZvdNgEkdk%2F3asRaiRI5INxeCnKnriSymTvnBIxtDJ%2FvUCNR3KPVZKhDSENhfOT6soZhWX92bgCPVOdl2vX%2BXJoSL5%2FQkZvxHydcMNS7dlJ%2B7fmk2L2Lfl%2FzvX%2FEvbF4hv0TVWRlC%2Fu6q3wzYPmRspGKuxRvljVrTwxfyUOUwgqrpzwY6sQE8CXHxtXM6TBpYvfxyzwYO9YR5Ay6uxibV%2BizKcELn1DS1dmTZl%2FOyOfk7SXerNCQf8JADiGThUcAP03cwH0uEGNfrNv5eL8OzubflB9CFSI8DPnVcWwwJ1lLfTCTALN7DXN07hoY5Jowj5bmIaqikh0VJLKfz9kKi5oXHf8OF7PgsNhNy1RgKH%2F5UZzbBDEgXUFoODYoaiwm3%2BrTdWyWBdj435j1m7mkY6iK6bivkqLs%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260505T213515Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY2GAAWNZD%2F20260505%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f0b3f5c3ec9a5c39328782be81e3284e3dff2a96da5fd12a8efe1ce0a56ea4b6&hash=c0a122db0719154d72c97d5d16ed98aa86f3d552b2cc2966d13482244b2e7952&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0021869326002267&tid=spdf-c0f2958c-1e23-4198-b176-127db8cd1366&sid=4ccc51101460e54b058b805-3767a3c4114fgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1d075e04545500080c5701&rr=9f72dfb9ea8b6365&cc=gb)
+1. [D Yang and W Yang, Homomorphism-homogeneous finite semilattices](https://www.sciencedirect.com/science/article/pii/S0021869326002267?casa_token=ibAygt9JPFQAAAAA:XgNQ_YRyVQXuDoHL7pofl_HBp3hjPPbbikY9LH4uPBTa8C5kmJbMOSWDMx24irTcVR6EyKglgxQ)
 
 1. [M Pinsker and C Schindler, The semigroup of increasing functions on the rational numbers has a unique Polish topology](https://arxiv.org/pdf/2305.04921)
 
