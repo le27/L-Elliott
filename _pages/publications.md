@@ -66,48 +66,68 @@ Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+11+43}
 
 Articles that have cited Luna's papers as of 05/05/2026 (excluding papers aleady mentioned above):
 
-1. [KDA Romero, El semigrupo inverso simétrico, el teorema de Pettis y la continuidad automática](https://noesis.uis.edu.co/server/api/core/bitstreams/81397d29-b6e9-417a-8414-decea3fb0ad7/content)
-
-1. [YA Neretin, Groups of isometries of ultrametric Urysohn spaces and their unitary representations](https://arxiv.org/pdf/2212.02607)
-
-1. [KL Kozlov, AG Leiderman, On proper compactifications of topological groups](https://arxiv.org/pdf/2604.23201)
-
-1. [J Perez and C Uzcategui, Topologies on the symmetric inverse semigroup](https://arxiv.org/pdf/2012.03041)
-
-1. [G Goffer and B Greenfeld, A note on the Zariski topology on groups and semigroups](https://arxiv.org/pdf/2312.17727)
+1. [K Arana, J Pérez and C Uzcátegui, Pettis property for Polish inverse semigroups](https://arxiv.org/pdf/2203.14146)
 
 1. [T Banakh and S Bardyla, Categorically closed countable semigroups](https://arxiv.org/pdf/2111.14154)
 
-1. [M Hampenberg Christensen, Submonoids of Infinite Symmetric Inverse Monoids](https://arxiv.org/pdf/2509.04200)
-
-1. [B Cameron, Abstract ping-pong systems in subgroups of Thompson’s groups](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/33513/Thesis-Bromlyn-Cameron-complete-version.pdf?sequence=5&isAllowed=y)
-
-1. [R Gorazd, Higman–Thompson groups of unfolding trees of rooted graphs](https://openresearch.newcastle.edu.au/ndownloader/files/55942097)
-
-1. [O Tanner, Topological full groups](https://theses.gla.ac.uk/84586/2/2024TannerPhD.pdf)
+1. [S Bardyla, Countably compact inverse semigroups and Nyikos' problem](https://arxiv.org/pdf/2503.13666)
 
 1. [E Bashwinger and P DeBonis, On Similarity Structure Groups and their W* and C*-Algebras](https://arxiv.org/abs/2507.18821)
 
-1. [S Harper, The spread of finite and infinite groups](https://arxiv.org/pdf/2210.09635)
-
-1. [D Perego and M Tarocchi, A class of rearrangement groups that are not invariably generated](https://arxiv.org/abs/2207.04235)
-
-1. [M Palmer and X Wu, Embedding groups into acyclic groups](https://arxiv.org/pdf/2510.16879)
-
 1. [J Belk, J Hyde and F Matucci, Finite germ extensions](https://arxiv.org/pdf/2407.03149)
-
-1. [F Wu, X Wu, M Zhao and Z Zhou, Embedding groups into boundedly acyclic groups](https://arxiv.org/abs/2407.07703)
 
 1. [J Belk, MCB Zaremsky, Twisted Brin–Thompson groups](https://arxiv.org/pdf/2001.04579)
 
 1. [J Belk, C Bleak, F Matucci and MCB Zaremsky, Hyperbolic groups satisfy the Boone-Higman conjecture](https://arxiv.org/pdf/2309.06224)
 
-1. [K Arana, J Pérez and C Uzcátegui, Pettis property for Polish inverse semigroups](https://arxiv.org/pdf/2203.14146)
+1. [J Belk, C Bleak, M Quick and R Skipper, Type systems and maximal subgroups of Thompson's group 𝑉](https://arxiv.org/pdf/2206.12631)
 
-1. [C Schindler, Semigroup topologies on endomorphism
-monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/20.500.12708/193465/1/Schindler%20Clemens%20-%202023%20-%20Semigroup%20topologies%20on%20endomorphism%20monoids%20of...pdf)
+1. [J.C. Birget, Some properties of Higman-Thompson monoids
+and digital circuits](https://arxiv.org/pdf/2403.12674)
 
-1. [D Yang and W Yang, Homomorphism-homogeneous finite semilattices](https://www.sciencedirect.com/science/article/pii/S0021869326002267?casa_token=ibAygt9JPFQAAAAA:XgNQ_YRyVQXuDoHL7pofl_HBp3hjPPbbikY9LH4uPBTa8C5kmJbMOSWDMx24irTcVR6EyKglgxQ)
+1. [A Brothier and R Seelig, Finitely presented simple groups with no piecewise projective actions](https://arxiv.org/pdf/2512.18943)
+
+1. [A Brothier, R Seelig, Forest-skein groups IV: dynamics](https://arxiv.org/pdf/2411.12569)
+
+1. [C Bruce, X Li and T Takeishi, Boundary actions of outer automorphism groups of Thompson-like groups](https://arxiv.org/pdf/2512.14324)
+
+1. [B Cameron, Abstract ping-pong systems in subgroups of Thompson’s groups](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/33513/Thesis-Bromlyn-Cameron-complete-version.pdf?sequence=5&isAllowed=y)
+
+1. [A Carvalho and CF Nyberg-Brodda, On linguistic subsets of groups and monoids](https://arxiv.org/pdf/2502.14329)
+
+1. [G Goffer and B Greenfeld, A note on the Zariski topology on groups and semigroups](https://arxiv.org/pdf/2312.17727)
+
+1. [J Gonzalez, Z Ghadernezhad, P Marimon, and
+M Pinsker, Minimal and intrinsic topologies on monoids of elementary embeddings](https://arxiv.org/pdf/2603.28419)
+
+1. [R Gorazd, Higman–Thompson groups of unfolding trees of rooted graphs](https://openresearch.newcastle.edu.au/ndownloader/files/55942097)
+
+1. [RD Gray and A Levine, Decidability of equations and first-order theory in Seifert 3-manifold groups](https://arxiv.org/pdf/2512.07690)
+
+1. [S Harper, The spread of finite and infinite groups](https://arxiv.org/pdf/2210.09635)
+
+1. [JE Hanson, T Koberda, J González
+and C Rosendal, Set theory, logic, and homeomorphism groups of manifolds](https://arxiv.org/pdf/2512.05206)
+
+1. [M Hampenberg Christensen, Submonoids of Infinite Symmetric Inverse Monoids](https://arxiv.org/pdf/2509.04200)
+
+1. [T Koberda and Y Lodha, Generic torsion-free groups and Rubin actions](https://arxiv.org/pdf/2503.11772)
+
+1. [KL Kozlov, AG Leiderman, On proper compactifications of topological groups](https://arxiv.org/pdf/2604.23201)
+
+1. [P Marimon and M Pinsker, A guide to topological reconstruction on endomorphism monoids and polymorphism clones](https://arxiv.org/pdf/2512.01086)
+
+1. [M Megrelishvili, M Shlossberg, Non-archimedean topological monoids](https://link.springer.com/content/pdf/10.1007/s00233-024-10485-z.pdf)
+
+1. [YA Neretin, Groups of isometries of ultrametric Urysohn spaces and their unitary representations](https://arxiv.org/pdf/2212.02607)
+
+1. [OM Oladosu, Digraph generated by idempotents in certain finite semigroup of mappings](https://www.researchgate.net/profile/Olalekan-Oladosu/publication/397471905_DIGRAPH_GENERATED_BY_IDEMPOTENTS_IN_CERTAIN_FINITE_SEMIGROUP_OF_MAPPINGS/links/691269074baee16591921010/DIGRAPH-GENERATED-BY-IDEMPOTENTS-IN-CERTAIN-FINITE-SEMIGROUP-OF-MAPPINGS.pdf)
+
+1. [M Palmer and X Wu, Embedding groups into acyclic groups](https://arxiv.org/pdf/2510.16879)
+
+1. [J Perez and C Uzcategui, Topologies on the symmetric inverse semigroup](https://arxiv.org/pdf/2012.03041)
+
+1. [D Perego and M Tarocchi, A class of rearrangement groups that are not invariably generated](https://arxiv.org/abs/2207.04235)
 
 1. [M Pinsker and C Schindler, The semigroup of increasing functions on the rational numbers has a unique Polish topology](https://arxiv.org/pdf/2305.04921)
 
@@ -115,39 +135,19 @@ monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/2
 
 1. [M Pinsker, J Rydval, M Schöbi and C Spiess, Three Fundamental Questions in Modern Infinite-Domain Constraint Satisfaction](https://arxiv.org/pdf/2502.06621)
 
-1. [JE Hanson, T Koberda, J González
-and C Rosendal, Set theory, logic, and homeomorphism groups of manifolds](https://arxiv.org/pdf/2512.05206)
+1. [KDA Romero, El semigrupo inverso simétrico, el teorema de Pettis y la continuidad automática](https://noesis.uis.edu.co/server/api/core/bitstreams/81397d29-b6e9-417a-8414-decea3fb0ad7/content)
+
+1. [C Schindler, Semigroup topologies on endomorphism
+monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/20.500.12708/193465/1/Schindler%20Clemens%20-%202023%20-%20Semigroup%20topologies%20on%20endomorphism%20monoids%20of...pdf)
+
+1. [O Tanner, Topological full groups](https://theses.gla.ac.uk/84586/2/2024TannerPhD.pdf)
 
 1. [M Tarocchi, Rearrangement Groups of Fractals: Structure and Conjugacy](https://arxiv.org/pdf/2412.02339)
 
-1. [T Koberda and Y Lodha, Generic torsion-free groups and Rubin actions](https://arxiv.org/pdf/2503.11772)
+1. [M Tarocchi, On Thompson groups for Ważewski dendrites](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EF6427D01B7FC9241C8DC2B22E04B8C6/S0305004125000349a.pdf/div-class-title-on-thompson-groups-for-wazewski-dendrites-div.pdf)
 
 1. [MG Vio, C Kravaris and E Silva, The Poisson boundary of Thompson's group  is not the circle](https://arxiv.org/pdf/2504.01283)
 
-1. [A Brothier and R Seelig, Finitely presented simple groups with no piecewise projective actions](https://arxiv.org/pdf/2512.18943)
+1. [F Wu, X Wu, M Zhao and Z Zhou, Embedding groups into boundedly acyclic groups](https://arxiv.org/abs/2407.07703)
 
-1. [M Tarocchi, On Thompson groups for Ważewski dendrites](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EF6427D01B7FC9241C8DC2B22E04B8C6/S0305004125000349a.pdf/div-class-title-on-thompson-groups-for-wazewski-dendrites-div.pdf)
-
-1. [J Belk, C Bleak, M Quick and R Skipper, Type systems and maximal subgroups of Thompson's group 𝑉](https://arxiv.org/pdf/2206.12631)
-
-1. [A Brothier, R Seelig, Forest-skein groups IV: dynamics](https://arxiv.org/pdf/2411.12569)
-
-1. [M Megrelishvili, M Shlossberg, Non-archimedean topological monoids](https://link.springer.com/content/pdf/10.1007/s00233-024-10485-z.pdf)
-
-1. [S Bardyla, Countably compact inverse semigroups and Nyikos' problem](https://arxiv.org/pdf/2503.13666)
-
-1. [J Gonzalez, Z Ghadernezhad, P Marimon, and
-M Pinsker, Minimal and intrinsic topologies on monoids of elementary embeddings](https://arxiv.org/pdf/2603.28419)
-
-1. [P Marimon and M Pinsker, A guide to topological reconstruction on endomorphism monoids and polymorphism clones](https://arxiv.org/pdf/2512.01086)
-
-1. [C Bruce, X Li and T Takeishi, Boundary actions of outer automorphism groups of Thompson-like groups](https://arxiv.org/pdf/2512.14324)
-
-1. [OM Oladosu, Digraph generated by idempotents in certain finite semigroup of mappings](https://www.researchgate.net/profile/Olalekan-Oladosu/publication/397471905_DIGRAPH_GENERATED_BY_IDEMPOTENTS_IN_CERTAIN_FINITE_SEMIGROUP_OF_MAPPINGS/links/691269074baee16591921010/DIGRAPH-GENERATED-BY-IDEMPOTENTS-IN-CERTAIN-FINITE-SEMIGROUP-OF-MAPPINGS.pdf)
-
-1. [RD Gray and A Levine, Decidability of equations and first-order theory in Seifert 3-manifold groups](https://arxiv.org/pdf/2512.07690)
-
-1. [A Carvalho and CF Nyberg-Brodda, On linguistic subsets of groups and monoids](https://arxiv.org/pdf/2502.14329)
-
-1. [J.C. Birget, Some properties of Higman-Thompson monoids
-and digital circuits](https://arxiv.org/pdf/2403.12674)
+1. [D Yang and W Yang, Homomorphism-homogeneous finite semilattices](https://www.sciencedirect.com/science/article/pii/S0021869326002267?casa_token=ibAygt9JPFQAAAAA:XgNQ_YRyVQXuDoHL7pofl_HBp3hjPPbbikY9LH4uPBTa8C5kmJbMOSWDMx24irTcVR6EyKglgxQ)
