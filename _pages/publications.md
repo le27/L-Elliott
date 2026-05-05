@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated 28/04/2026
+Last updated 05/05/2026
 
 ### Research Articles:
 1. [L Elliott, A Evetts and A Levine. Counting Automorphic Orbits in Finitely Generated Groups](https://arxiv.org/abs/2604.18104)[Submitted to Transactions of the American Mathematical Society]
