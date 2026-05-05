@@ -66,6 +66,24 @@ Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+11+43}
 
 Articles that have cited Luna's papers as of 05/05/2026 (excluding papers aleady mentioned above):
 
+
+1. [JE Hanson, T Koberda, J González
+and C Rosendal, Set theory, logic, and homeomorphism groups of manifolds](https://arxiv.org/pdf/2512.05206)
+
+1. [M Tarocchi, Rearrangement Groups of Fractals: Structure and Conjugacy](https://arxiv.org/pdf/2412.02339)
+
+1. [T Koberda and Y Lodha, Generic torsion-free groups and Rubin actions](https://arxiv.org/pdf/2503.11772)
+
+1. [MG Vio, C Kravaris and E Silva, The Poisson boundary of Thompson's group  is not the circle](https://arxiv.org/pdf/2504.01283)
+
+1. [A Brothier and R Seelig, Finitely presented simple groups with no piecewise projective actions](https://arxiv.org/pdf/2512.18943)
+
+1. [M Tarocchi, On Thompson groups for Ważewski dendrites](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EF6427D01B7FC9241C8DC2B22E04B8C6/S0305004125000349a.pdf/div-class-title-on-thompson-groups-for-wazewski-dendrites-div.pdf)
+
+1. [J Belk, C Bleak, M Quick and R Skipper, Type systems and maximal subgroups of Thompson's group 𝑉](https://arxiv.org/pdf/2206.12631)
+
+1. [A Brothier, R Seelig, Forest-skein groups IV: dynamics](https://arxiv.org/pdf/2411.12569)
+
 1. [M Megrelishvili, M Shlossberg, Non-archimedean topological monoids](https://link.springer.com/content/pdf/10.1007/s00233-024-10485-z.pdf)
 
 1. [S Bardyla, Countably compact inverse semigroups and Nyikos' problem](https://arxiv.org/pdf/2503.13666)
