@@ -64,7 +64,7 @@ Currently working on more projects with the following authors [L Elliott], [L El
 
 Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+11+43}{17} \approx 23.94$$ pages.
 
-Articles that have cited Luna's papers as of 05/05/2026 (excluding papers aleady mentioned above):
+Articles that have cited Luna's papers as of 05/05/2026 (excluding papers already mentioned above):
 
 1. [K Arana, J Pérez and C Uzcátegui, Pettis property for Polish inverse semigroups](https://arxiv.org/pdf/2203.14146)
 
