@@ -151,3 +151,9 @@ monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/2
 1. [F Wu, X Wu, M Zhao and Z Zhou, Embedding groups into boundedly acyclic groups](https://arxiv.org/abs/2407.07703)
 
 1. [D Yang and W Yang, Homomorphism-homogeneous finite semilattices](https://www.sciencedirect.com/science/article/pii/S0021869326002267?casa_token=ibAygt9JPFQAAAAA:XgNQ_YRyVQXuDoHL7pofl_HBp3hjPPbbikY9LH4uPBTa8C5kmJbMOSWDMx24irTcVR6EyKglgxQ)
+
+
+Plan to read list:
+https://arxiv.org/pdf/2605.02889
+
+https://arxiv.org/pdf/2605.00041
