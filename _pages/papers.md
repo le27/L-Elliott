@@ -64,7 +64,7 @@ Last updated 15/05/2026
 ### Other random info luna wanted to track:
 Currently working on more projects with the following authors [L Elliott], [L Elliott + G Crowe], [L Elliott + S Bardyla]x3, [L Elliott + S Bardyla + Y Peresse], [L Elliott + R Cirpons + A Levine + J Mitchell], [L Elliott + N Kolodny].
 
-Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+11+43}{17} \approx 23.94$$ pages.
+Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+11+43+12}{18} \approx 23.28$$ pages.
 
 Articles that have cited Luna's papers as of 05/05/2026 (excluding papers already mentioned above):
 
@@ -154,8 +154,3 @@ monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/2
 
 1. [D Yang and W Yang, Homomorphism-homogeneous finite semilattices](https://www.sciencedirect.com/science/article/pii/S0021869326002267?casa_token=ibAygt9JPFQAAAAA:XgNQ_YRyVQXuDoHL7pofl_HBp3hjPPbbikY9LH4uPBTa8C5kmJbMOSWDMx24irTcVR6EyKglgxQ)
 
-
-Plan to read list:
-https://arxiv.org/pdf/2605.02889
-
-https://arxiv.org/pdf/2605.00041
