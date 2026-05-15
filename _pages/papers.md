@@ -4,9 +4,11 @@ permalink: /papers/
 author_profile: true
 ---
 
-Last updated 05/05/2026
+Last updated 15/05/2026
 
 ### Research Articles:
+1. [ Elliott, A Levine. Commutative decomposition of infinite symmetric groups and transformation monoids, 2026](https://arxiv.org/abs/2605.14862)
+
 1. [L Elliott, A Evetts and A Levine. Counting Automorphic Orbits in Finitely Generated Groups, 2026](https://arxiv.org/abs/2604.18104)[Submitted to Transactions of the American Mathematical Society]
 
 1. [L Elliott, The Zariski Topology on Homeomorphism groups, 2026](https://arxiv.org/abs/2601.15185)[Submitted to Topology and its Applications]
@@ -60,7 +62,7 @@ Last updated 05/05/2026
 
 
 ### Other random info luna wanted to track:
-Currently working on more projects with the following authors [L Elliott], [L Elliott + G Crowe], [L Elliott + S Bardyla]x3, [L Elliott + S Bardyla + Y Peresse], [L Elliott + A Levine], [L Elliott + R Cirpons + A Levine + J Mitchell], [L Elliott + N Kolodny].
+Currently working on more projects with the following authors [L Elliott], [L Elliott + G Crowe], [L Elliott + S Bardyla]x3, [L Elliott + S Bardyla + Y Peresse], [L Elliott + R Cirpons + A Levine + J Mitchell], [L Elliott + N Kolodny].
 
 Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+11+43}{17} \approx 23.94$$ pages.
 
