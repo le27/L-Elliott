@@ -155,5 +155,7 @@ monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/2
 1. [D Yang and W Yang, Homomorphism-homogeneous finite semilattices](https://www.sciencedirect.com/science/article/pii/S0021869326002267?casa_token=ibAygt9JPFQAAAAA:XgNQ_YRyVQXuDoHL7pofl_HBp3hjPPbbikY9LH4uPBTa8C5kmJbMOSWDMx24irTcVR6EyKglgxQ)
 
 
+Plan to read list:
 
+TODO write this
 
