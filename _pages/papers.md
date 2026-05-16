@@ -157,5 +157,13 @@ monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/2
 
 Plan to read list:
 
-TODO write this
+[ElementaryEmbeddings](https://arxiv.org/pdf/2603.28419)
+
+[TwistedConjugacy](https://arxiv.org/pdf/2404.04705)
+
+[InnerAutSemigroups](https://arxiv.org/pdf/2605.00041)
+
+[End(Q)](https://arxiv.org/pdf/2305.04921)
+
+
 
