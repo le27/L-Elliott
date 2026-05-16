@@ -17,7 +17,7 @@ Last updated 15/05/2026
 
 1. [A Levine and L Elliott. The Diophantine problem in Thompson's group F, 2025](https://arxiv.org/abs/2502.14970) [Published in Mathematics of Computation](https://doi.org/10.1090/mcom/4113)
 
-13. [R Al Kohli, C Bleak and L Elliott. On epiC groups over language class C, 2025](https://arxiv.org/abs/2501.10259)
+13. [R Al Kohli, C Bleak and L Elliott. On epiC groups over language class C, 2025](https://arxiv.org/abs/2501.10259)[Submitted to Journal of Algebra]
 
 12. [L Elliott, A Levine and J Mitchell. Computing congruences of finite inverse semigroups, 2024](https://arxiv.org/abs/2406.09281)
 
@@ -153,4 +153,7 @@ monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/2
 1. [F Wu, X Wu, M Zhao and Z Zhou, Embedding groups into boundedly acyclic groups](https://arxiv.org/abs/2407.07703)
 
 1. [D Yang and W Yang, Homomorphism-homogeneous finite semilattices](https://www.sciencedirect.com/science/article/pii/S0021869326002267?casa_token=ibAygt9JPFQAAAAA:XgNQ_YRyVQXuDoHL7pofl_HBp3hjPPbbikY9LH4uPBTa8C5kmJbMOSWDMx24irTcVR6EyKglgxQ)
+
+
+
 
