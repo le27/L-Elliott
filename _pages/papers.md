@@ -9,7 +9,7 @@ Last updated 20/05/2026
 ### Research Articles:
 1. [L Elliott, A Levine. Commutative decomposition of infinite symmetric groups and transformation monoids, 2026](https://arxiv.org/abs/2605.14862)[Submitted to Bulletin of the London Mathematical Society]
 
-1. [L Elliott, A Evetts and A Levine. Counting Automorphic Orbits in Finitely Generated Groups, 2026](https://arxiv.org/abs/2604.18104)[Submitted to Transactions of the American Mathematical Society]
+1. [L Elliott, A Evetts and A Levine. Counting Automorphic Orbits in Finitely Generated Groups, 2026](https://arxiv.org/abs/2604.18104)
 
 1. [L Elliott, The Zariski Topology on Homeomorphism groups, 2026](https://arxiv.org/abs/2601.15185)[Submitted to Topology and its Applications]
 
@@ -113,6 +113,8 @@ and C Rosendal, Set theory, logic, and homeomorphism groups of manifolds](https:
 
 1. [M Hampenberg Christensen, Submonoids of Infinite Symmetric Inverse Monoids](https://arxiv.org/pdf/2509.04200)
 
+1. [J Hyde, R Skipper and M Zaremsky, Action Graphs, Semiconjugacy, and Non-Embedding in Thompson’s Group V](https://arxiv.org/pdf/2605.20564)
+
 1. [T Koberda and Y Lodha, Generic torsion-free groups and Rubin actions](https://arxiv.org/pdf/2503.11772)
 
 1. [KL Kozlov, AG Leiderman, On proper compactifications of topological groups](https://arxiv.org/pdf/2604.23201)
@@ -138,6 +140,9 @@ and C Rosendal, Set theory, logic, and homeomorphism groups of manifolds](https:
 1. [M Pinsker, J Rydval, M Schöbi and C Spiess, Three Fundamental Questions in Modern Infinite-Domain Constraint Satisfaction](https://arxiv.org/pdf/2502.06621)
 
 1. [KDA Romero, El semigrupo inverso simétrico, el teorema de Pettis y la continuidad automática](https://noesis.uis.edu.co/server/api/core/bitstreams/81397d29-b6e9-417a-8414-decea3fb0ad7/content)
+
+1. [E Rybak, Boundary dynamics, triple transitivity, and mixed identities in
+weakly hyperbolic groups](https://arxiv.org/pdf/2605.14159)
 
 1. [C Schindler, Semigroup topologies on endomorphism
 monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/20.500.12708/193465/1/Schindler%20Clemens%20-%202023%20-%20Semigroup%20topologies%20on%20endomorphism%20monoids%20of...pdf)
