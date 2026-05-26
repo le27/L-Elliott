@@ -7,6 +7,8 @@ author_profile: true
 Last updated 20/05/2026
 
 ### Research Articles:
+1. [S Bardyla, L Elliott. Polish topologies on endomorphism monoids of linear orders, 2026]
+   
 1. [L Elliott, A Levine. Commutative decomposition of infinite symmetric groups and transformation monoids, 2026](https://arxiv.org/abs/2605.14862)[Submitted to Bulletin of the London Mathematical Society]
 
 1. [L Elliott, A Evetts and A Levine. Counting Automorphic Orbits in Finitely Generated Groups, 2026](https://arxiv.org/abs/2604.18104)
