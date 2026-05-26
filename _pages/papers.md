@@ -66,7 +66,7 @@ Last updated 20/05/2026
 ### Other random info luna wanted to track:
 Currently working on more projects with the following authors [L Elliott], [L Elliott + A Levine], [L Elliott + G Crowe], [L Elliott + S Bardyla]x2, [L Elliott + S Bardyla + Y Peresse], [L Elliott + R Cirpons + A Levine + J Mitchell], [L Elliott + N Kolodny].
 
-Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+11+43+12}{18} \approx 23.28$$ pages.
+Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+11+43+12+21}{19} \approx 23.16$$ pages.
 
 Articles that have cited Luna's papers as of 05/05/2026 (excluding papers already mentioned above):
 
