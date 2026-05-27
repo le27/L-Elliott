@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-Last updated 20/05/2026
+Last updated 27/05/2026
 
 ### Research Articles:
 1. [S Bardyla, L Elliott. Polish topologies on endomorphism monoids of linear orders, 2026](https://arxiv.org/abs/2605.26906)
