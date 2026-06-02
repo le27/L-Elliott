@@ -146,7 +146,7 @@ and C Rosendal, Set theory, logic, and homeomorphism groups of manifolds](https:
 1. [E Rybak, Boundary dynamics, triple transitivity, and mixed identities in
 weakly hyperbolic groups](https://arxiv.org/pdf/2605.14159)
 
-1. [R Sauer, E Schesler, A finitely presented grouo of non-uniform exponential growth](https://arxiv.org/pdf/2605.30163)
+1. [R Sauer, E Schesler, A finitely presented group of non-uniform exponential growth](https://arxiv.org/pdf/2605.30163)
 
 1. [C Schindler, Semigroup topologies on endomorphism
 monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/20.500.12708/193465/1/Schindler%20Clemens%20-%202023%20-%20Semigroup%20topologies%20on%20endomorphism%20monoids%20of...pdf)
