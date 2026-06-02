@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-Last updated 27/05/2026
+Last updated 02/06/2026
 
 ### Research Articles:
 1. [S Bardyla, L Elliott. Polish topologies on endomorphism monoids of linear orders, 2026](https://arxiv.org/abs/2605.26906)
@@ -68,7 +68,7 @@ Currently working on more projects with the following authors [L Elliott], [L El
 
 Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+11+43+12+21}{19} \approx 23.16$$ pages.
 
-Articles that have cited Luna's papers as of 05/05/2026 (excluding papers already mentioned above):
+Articles that have cited Luna's papers as of 02/06/2026 (excluding papers already mentioned above):
 
 1. [K Arana, J Pérez and C Uzcátegui, Pettis property for Polish inverse semigroups](https://arxiv.org/pdf/2203.14146)
 
@@ -146,8 +146,12 @@ and C Rosendal, Set theory, logic, and homeomorphism groups of manifolds](https:
 1. [E Rybak, Boundary dynamics, triple transitivity, and mixed identities in
 weakly hyperbolic groups](https://arxiv.org/pdf/2605.14159)
 
+1. [R Sauer, E Schesler, A finitely presented grouo of non-uniform exponential growth](https://arxiv.org/pdf/2605.30163)
+
 1. [C Schindler, Semigroup topologies on endomorphism
 monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/20.500.12708/193465/1/Schindler%20Clemens%20-%202023%20-%20Semigroup%20topologies%20on%20endomorphism%20monoids%20of...pdf)
+
+
 
 1. [O Tanner, Topological full groups](https://theses.gla.ac.uk/84586/2/2024TannerPhD.pdf)
 
