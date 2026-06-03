@@ -148,3 +148,24 @@ Question 5.1. What is the commutative subgroup width of Sym(N)?
 Question 5.2. Do any of the monoids Aut(Q, ≤), Aut(R), End(Q, ≤), End(R) have finite commutative
 submonoid width?
 
+
+https://arxiv.org/pdf/2605.26906
+
+
+Question 6.2. Is it true that there is a semigroup compatible with precisely κ Polish semigroup
+topologies if and only if κ ∈ {0, 1, ℵ0, 2
+ℵ0
+, 2
+2
+ℵ0
+}?
+
+
+Question 6.3. Does the semigroup End(N, <) admit a finest Polish semigroup topology?
+
+Question 6.4. Do either of the Polish topological semigroups (End(Z, ≤), T0), (End(N, ≤), Tmax)
+have automatic continuity with respect to the class of second-countable topological semigroups?
+
+Question 6.6. Is there a topological semigroup S which has property XX with respect a non-empty
+subset A but not with respect to its top J -class?
+
