@@ -165,5 +165,5 @@ Answer: In a to appear paper with Serhii Bardyla, we show that this topology is 
 
 ([source](https://arxiv.org/pdf/1912.07029)) Is the Frechet-Markov topology on a semigroup always contained in the Zariski topology?
 
-Answer: No. In the same to appear paper with Serhii Bardyla we show that the semigroup Zarsiki topology on the symmetric inverse monoid is strictly courser than the Zariski topology.
+Answer: No. In the same to appear paper with Serhii Bardyla we show that the semigroup Zarsiki topology on the symmetric inverse monoid is strictly courser than the Frechet-Markov topology.
 
