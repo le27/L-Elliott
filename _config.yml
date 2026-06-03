@@ -219,6 +219,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _questions
+  - scope:
+      path: ""
+      type: questions
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
