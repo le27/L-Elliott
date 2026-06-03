@@ -86,3 +86,17 @@ Is Grigorchuk’s group epiRegular?
 1. ([source](https://arxiv.org/pdf/2501.10259))
 Is the standard restricted wreath product of $C_2$ with the Lamp-
 lighter group, an epiRegular group?
+
+1. ([source](https://arxiv.org/pdf/2502.14970))
+Is the Diophantine problem decidable in Thompson’s group V?
+
+1. ([source](https://arxiv.org/pdf/2502.14970))
+Which diagram groups have decidable Diophantine problem?
+
+1. ([source](https://arxiv.org/pdf/2502.14970))
+Is the single equation problem decidable in Thompson’s group F?
+
+1. ([source](https://arxiv.org/pdf/2502.14970))
+Is it decidable whether a quadratic equation in F admits a solution?
+ 
+
