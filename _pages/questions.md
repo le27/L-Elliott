@@ -5,7 +5,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-Below I give a list of still open questions I have previously asked in my papers. Motivation and backgroud for these questions can be found by following the source links. The list is in order of how much I want to know the answer (most first) but I am interesting all these questions. After the list I also give the questions I've asked which have since been ansered. If you know the answers to any of the unanswered questions then please let me know!
+Below I give a list of still open questions I have previously asked in my papers. Motivation and background for these questions can be found by following the source links. I am interested in all these questions and the amount I am interested in them is inconsistant and hard to quantify. However, as I enjoy ranking things, I have attempted to list them in order of how much I want to know the answer (most first). After the list I also give the questions I've asked which have since been ansered. If you know the answers to any of the unanswered questions then please let me know!
 
 Last updated 03/06/2026
 
