@@ -27,17 +27,17 @@ What more can be said about the class of groups which have all finitely generate
 1. ([source](https://arxiv.org/pdf/2008.04791))
 Is every finitely generated simple vigorous group a quotient of the free product of $C_2$ and $C_3$?
 
-1.([source](https://arxiv.org/pdf/1912.07029)) Is the Frechet-Markov topology on a semigroup always contained in the Zariski topology?
+1. ([source](https://arxiv.org/pdf/1912.07029)) Is the Frechet-Markov topology on a semigroup always contained in the Zariski topology?
 
-1.([source](https://arxiv.org/pdf/1912.07029)) Is the semigroup version of the Zariski topology applied to a group equal to the group
+1. ([source](https://arxiv.org/pdf/1912.07029)) Is the semigroup version of the Zariski topology applied to a group equal to the group
 version of the Zariski topology applied to the same group?
 
-1.([source](https://arxiv.org/pdf/1912.07029)) 
+1. ([source](https://arxiv.org/pdf/1912.07029)) 
 What is the semigroup Zariski topology of the symmetric inverse monoid?
 
-1.([source](https://arxiv.org/pdf/1912.07029)) If G is a Polish group and G has the small index property, then does G have automatic
+1. ([source](https://arxiv.org/pdf/1912.07029)) If G is a Polish group and G has the small index property, then does G have automatic
 continuity with respect to the class of second countable groups?
 
-1.([source](https://arxiv.org/pdf/1912.07029)) Is every countable Polish semigroup topologically isomorphic to a subsemigroup of $\mathbb{N}^{\mathbb{N}}$?
+1. ([source](https://arxiv.org/pdf/1912.07029)) Is every countable Polish semigroup topologically isomorphic to a subsemigroup of $\mathbb{N}^{\mathbb{N}}$?
 
-1.([source](https://arxiv.org/pdf/1912.07029)) Are $\mathcal{I}_2$, $\mathcal{I}_3$ and $\mathcal{I}_4$ the only Polish semigroup topologies on $I_{\mathbb{N}}$.
+1. ([source](https://arxiv.org/pdf/1912.07029)) Are $\mathcal{I}_2$, $\mathcal{I}_3$ and $\mathcal{I}_4$ the only Polish semigroup topologies on $I_{\mathbb{N}}$.
