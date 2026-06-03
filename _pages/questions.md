@@ -16,7 +16,7 @@ What is the commutative subgroup width of $\text{Sym}(\mathbb{N})$?
 
 1. ([source](https://arxiv.org/pdf/2605.26906))
 Is it true that there is a semigroup compatible with precisely $\kappa$ Polish semigroup
-topologies if and only if $\kappa ∈ \{0, 1, \aleph_0, 2^{\aleph_0}, 2^{2^{\aleph_0}}\}$?
+topologies if and only if $\kappa ∈ ${$0, 1, \aleph_0, 2^{\aleph_0}, 2^{2^{\aleph_0}}$}?
 
 1. ([source](https://arxiv.org/pdf/2605.14862))
 Do any of the monoids $\text{Aut}(\mathbb{Q}, ≤)$, $\text{Aut}(R)$, $\text{End}(\mathbb{Q}, ≤)$, $\text{End}(R)$ have finite commutative submonoid width?
