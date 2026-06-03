@@ -108,14 +108,13 @@ joins of these, and the discrete topology.
 Question 6.2. How many Hausdorff group topologies does V admit?
 
 1. ([source](https://arxiv.org/pdf/2601.15185))
-Question 6.3. Is the Markov topology on the homeomorphism group of the Cantor set equal to the Zariski topology?
+Question 6.3. Is the Markov topology on the homeomorphism group of the Cantor space equal to the Zariski topology?
 
 1. ([source](https://arxiv.org/pdf/2601.15185))
-Question 6.4. Is the Markov topology on homeomorphism group of the Cantor set Hausdorff ?
+Question 6.4. Is the Markov topology on homeomorphism group of the Cantor space Hausdorff ?
 
 1. ([source](https://arxiv.org/pdf/2601.15185))
-Question 6.5. Can one classify which “sufficiently large” subgroups of Homeo(2ω
-) have a Hausdorff
+Question 6.5. Can one classify which “sufficiently large” groups of homeomorphisms of the Cantor space have a Hausdorff
 Zariski topology (for some reasonable notion of sufficiently large).
 
 
