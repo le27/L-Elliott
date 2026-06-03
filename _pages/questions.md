@@ -24,7 +24,7 @@ Do any of the monoids $\text{Aut}(\mathbb{Q}, ≤)$, $\text{Aut}(R)$, $\text{End
 1. ([source](https://arxiv.org/pdf/2601.15185)) 
 Are there any more Hausdorff group topologies on any of the Thompson groups F, T and V other than the
 pointwise topologies (with respect to one of the orbits of their usual action), the compact-open topology,
-joins of these, and the discrete topology.
+joins of these, and the discrete topology?
 
 1. ([source](https://arxiv.org/pdf/1912.07029)) If G is a Polish group and G has the small index property, then does G have automatic
 continuity with respect to the class of second countable groups? More info can be found [here](https://mathoverflow.net/questions/348228/is-there-a-topological-group-with-the-small-index-property-that-does-not-have-au).
@@ -42,18 +42,17 @@ Do either of the Polish topological semigroups $(\text{End}(\mathbb{Z}, ≤), T_
 How many Hausdorff group topologies does V admit?
 
 1. ([source](https://arxiv.org/pdf/2601.15185))
-Can one classify which “sufficiently large” groups of homeomorphisms of the Cantor space have a Hausdorff Zariski topology (for some reasonable notion of sufficiently large).
+Can one classify which “sufficiently large” groups of homeomorphisms of the Cantor space have a Hausdorff Zariski topology (for some reasonable notion of sufficiently large)?
 
 1. ([source](https://arxiv.org/pdf/2112.13359))
 Can the category UDAFG be used to build “small” generating sets
 for the groups $Out(G_{n,n−1})$ $(n ≥ 2)$? In particular is the group $Out(V)$ finitely generated?
 
 1. ([source](https://arxiv.org/pdf/2008.04791))
-For which space-group pairs $(X, H)$ is it the case that if $G ≤ \text{Homeo}(X)$ is finitely generated, simple and vigorous with respect to H then G is two-generated.
+For which space-group pairs $(X, H)$ is it the case that if $G ≤ \text{Homeo}(X)$ is finitely generated, simple and vigorous with respect to H then G is two-generated?
 
 1. ([source](https://arxiv.org/pdf/2501.10259))
-Does there exist an epiRegular group which does not admit a rational cross
-section?
+Does there exist an epiRegular group which does not admit a rational cross section?
 
 1. ([source](https://arxiv.org/pdf/2501.10259))
 Let $C_1$ and $C_2$ be distinct language classes in the Chomsky hierarchy such
