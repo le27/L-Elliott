@@ -99,4 +99,23 @@ Is the single equation problem decidable in Thompson’s group F?
 1. ([source](https://arxiv.org/pdf/2502.14970))
 Is it decidable whether a quadratic equation in F admits a solution?
  
+1. ([source](https://arxiv.org/pdf/2601.15185)) 
+Are there any more Hausdorff group topologies on any of the Thompson groups F, T and V other than the
+pointwise topologies (with respect to one of the orbits of their usual action), the compact-open topology,
+joins of these, and the discrete topology.
+
+1. ([source](https://arxiv.org/pdf/2601.15185))
+Question 6.2. How many Hausdorff group topologies does V admit?
+
+1. ([source](https://arxiv.org/pdf/2601.15185))
+Question 6.3. Is the Markov topology on the homeomorphism group of the Cantor set equal to the Zariski topology?
+
+1. ([source](https://arxiv.org/pdf/2601.15185))
+Question 6.4. Is the Markov topology on homeomorphism group of the Cantor set Hausdorff ?
+
+1. ([source](https://arxiv.org/pdf/2601.15185))
+Question 6.5. Can one classify which “sufficiently large” subgroups of Homeo(2ω
+) have a Hausdorff
+Zariski topology (for some reasonable notion of sufficiently large).
+
 
