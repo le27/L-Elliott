@@ -121,8 +121,7 @@ growth?
 Is the Diophantine problem decidable in Thompson’s group V?
 
 1. ([source](https://arxiv.org/pdf/2501.10259))
-Is the standard restricted wreath product of $C_2$ with the Lamp-
-lighter group, an epiRegular group?
+Is the standard restricted wreath product of $C_2$ with the Lamplighter group, an epiRegular group?
 
 1. ([source](https://arxiv.org/pdf/2112.13359))
 Suppose that $M_1$ and $M_2$ are UDAF relator equivalent UDAF relator matrices with the same size. It is necessarily possible to convert $M_1$ into $M_2$
