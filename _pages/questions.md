@@ -51,7 +51,8 @@ Can the category UDAFG be used to build “small” generating sets
 for the groups $Out(G_{n,n−1})$ $(n ≥ 2)$?
 
 1. ([source](https://arxiv.org/pdf/2112.13359))
-Suppose that $M_1$ and $M_2$ are UDAF relator equivalent UDAF relator matrices with the same size. It is necessarily possible to convert $M_1$ into $M_2$as in Theorem 7.8 without using operation (1)?
+Suppose that $M_1$ and $M_2$ are UDAF relator equivalent UDAF relator matrices with the same size. It is necessarily possible to convert $M_1$ into $M_2$
+as in Theorem 7.8 without using operation (1)?
 
 
 1. ([source](https://arxiv.org/pdf/2203.11577))
@@ -105,67 +106,58 @@ pointwise topologies (with respect to one of the orbits of their usual action), 
 joins of these, and the discrete topology.
 
 1. ([source](https://arxiv.org/pdf/2601.15185))
-Question 6.2. How many Hausdorff group topologies does V admit?
+How many Hausdorff group topologies does V admit?
 
 1. ([source](https://arxiv.org/pdf/2601.15185))
-Question 6.3. Is the Markov topology on the homeomorphism group of the Cantor space equal to the Zariski topology?
+Is the Markov topology on the homeomorphism group of the Cantor space equal to the Zariski topology?
 
 1. ([source](https://arxiv.org/pdf/2601.15185))
-Question 6.4. Is the Markov topology on homeomorphism group of the Cantor space Hausdorff ?
+Is the Markov topology on homeomorphism group of the Cantor space Hausdorff ?
 
 1. ([source](https://arxiv.org/pdf/2601.15185))
-Question 6.5. Can one classify which “sufficiently large” groups of homeomorphisms of the Cantor space have a Hausdorff
-Zariski topology (for some reasonable notion of sufficiently large).
+Can one classify which “sufficiently large” groups of homeomorphisms of the Cantor space have a Hausdorff Zariski topology (for some reasonable notion of sufficiently large).
 
-https://arxiv.org/pdf/2604.18104
+1. ([source](https://arxiv.org/pdf/2604.18104))
+Is there a finitely generated group with intermediate automorphic growth?
 
-
-Question 8.1. Is there a finitely generated group with intermediate automorphic growth?
-
-Question 8.2. Are there any groups with polynomially bounded, but not polynomial automorphic
+1. ([source](https://arxiv.org/pdf/2604.18104))
+Are there any groups with polynomially bounded, but not polynomial automorphic
 growth rates?
 
-Question 8.3. Can automorphic growth be fully classified for all virtually abelian groups in a
-similar manner to Theorem 4.18?
+1. ([source](https://arxiv.org/pdf/2604.18104))
+Can automorphic growth be fully classified for all virtually abelian groups in a similar manner to Theorem 4.18?
 
-Question 8.4. Are there finitely presented non-virtually abelian groups with linear automorphic
+1. ([source](https://arxiv.org/pdf/2604.18104)) Are there finitely presented non-virtually abelian groups with linear automorphic
 growth?
 
 
-Question 8.5. Is there a finitely generated group with exponential conjugacy growth but polynomial
+1. ([source](https://arxiv.org/pdf/2604.18104)) Is there a finitely generated group with exponential conjugacy growth but polynomial
 automorphic growth?
 
-Question 8.6. Is there a finitely presented group with exponential standard growth, but polynomial
+1. ([source](https://arxiv.org/pdf/2604.18104)) Is there a finitely presented group with exponential standard growth, but polynomial
 automorphic growth?
 
-Question 8.7. What is the automorphic growth of Thompson’s group F?
+1. ([source](https://arxiv.org/pdf/2604.18104)) What is the automorphic growth of Thompson’s group F?
 
-https://arxiv.org/pdf/2605.14862
-
-Question 5.1. What is the commutative subgroup width of Sym(N)?
-
-
-Question 5.2. Do any of the monoids Aut(Q, ≤), Aut(R), End(Q, ≤), End(R) have finite commutative
-submonoid width?
+1. ([source](https://arxiv.org/pdf/2605.14862))
+What is the commutative subgroup width of $\text{Sym}(\mathbb{N})$?
 
 
-https://arxiv.org/pdf/2605.26906
+1. ([source](https://arxiv.org/pdf/2605.14862))
+Do any of the monoids $\text{Aut}(\mathbb{Q}, ≤)$, $\text{Aut}(R)$, $\text{End}(\mathbb{Q}, ≤)$, $\text{End}(R)$ have finite commutative submonoid width?
 
 
-Question 6.2. Is it true that there is a semigroup compatible with precisely κ Polish semigroup
-topologies if and only if κ ∈ {0, 1, ℵ0, 2
-ℵ0
-, 2
-2
-ℵ0
-}?
+1. ([source](https://arxiv.org/pdf/2605.26906))
+Is it true that there is a semigroup compatible with precisely κ Polish semigroup
+topologies if and only if $\kappa ∈ \{0, 1, \aleph_0, 2^{\aleph_0}, 2^{2^{\aleph_0}}\}$?
 
 
-Question 6.3. Does the semigroup End(N, <) admit a finest Polish semigroup topology?
+1. ([source](https://arxiv.org/pdf/2605.26906))
+Does the semigroup $\text{End}(\mathbb{N}, <)$ admit a finest Polish semigroup topology?
 
-Question 6.4. Do either of the Polish topological semigroups (End(Z, ≤), T0), (End(N, ≤), Tmax)
-have automatic continuity with respect to the class of second-countable topological semigroups?
+1. ([source](https://arxiv.org/pdf/2605.26906))
+Do either of the Polish topological semigroups $(\text{End}(\mathbb{Z}, ≤), T_0)$, $(\text{End}(\mathbb{N}, ≤), T_{max})$ have automatic continuity with respect to the class of second-countable topological semigroups?
 
-Question 6.6. Is there a topological semigroup S which has property XX with respect a non-empty
-subset A but not with respect to its top J -class?
+1. ([source](https://arxiv.org/pdf/2605.26906))
+Is there a topological semigroup which has property $\mathbb{XX}$ with respect a non-empty subset $A$ but not with respect to its top $\mathscr{J} -class$?
 
