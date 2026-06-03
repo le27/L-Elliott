@@ -84,5 +84,5 @@ Is Grigorchuk’s group epiRegular?
 
 
 1. ([source](https://arxiv.org/pdf/2501.10259))
-Is the standard restricted wreath product of C2 with the Lamp-
+Is the standard restricted wreath product of $C_2$ with the Lamp-
 lighter group, an epiRegular group?
