@@ -140,4 +140,11 @@ automorphic growth?
 
 Question 8.7. What is the automorphic growth of Thompson’s group F?
 
+https://arxiv.org/pdf/2605.14862
+
+Question 5.1. What is the commutative subgroup width of Sym(N)?
+
+
+Question 5.2. Do any of the monoids Aut(Q, ≤), Aut(R), End(Q, ≤), End(R) have finite commutative
+submonoid width?
 
