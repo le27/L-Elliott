@@ -38,7 +38,7 @@ continuity with respect to the class of second countable groups?
 
 1. ([source](https://arxiv.org/pdf/1912.07029)) Is every countable Polish semigroup topologically isomorphic to a subsemigroup of $\mathbb{N}^{\mathbb{N}}$?
 
-1. ([source](https://arxiv.org/pdf/1912.07029)) Are the two minimal Polish topologies and the unique maximal Polish topology on $I_{\mathbb{N}}$ the only Polish semigroup topologies on $I_{\mathbb{N}}$?
+1. ([source](https://arxiv.org/pdf/1912.07029)) Are the two minimal Polish topologies and the unique maximal Polish topology on $I_{\mathbb{N}}$ the only three Polish semigroup topologies on $I_{\mathbb{N}}$?
 
 1. ([source](https://arxiv.org/pdf/2112.13359))
  If two UDAF digraphs are shift equivalent then are they necessarily
