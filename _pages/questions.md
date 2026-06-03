@@ -5,7 +5,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-Below I give a list of still open questions I have previously asked in my papers. At the end of the list I also include questions which have since been answered. If you know the answers to any of the unanswered questions then please let me know!
+Below I give a list of still open questions I have previously asked in my papers. Motivation and backgroud for these questions can be found by following the source links. At the end of the list I also include questions which have since been answered. If you know the answers to any of the unanswered questions then please let me know!
 
 Last updated never
 
