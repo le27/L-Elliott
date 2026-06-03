@@ -22,8 +22,6 @@ is finitely generated, simple and vigorous with respect to H then G is two-gener
 1. ([source](https://arxiv.org/pdf/2008.04791))
 What more can be said about the class of groups which have all finitely generated simple vigorous groups as quotients?
 
-
-
 1. ([source](https://arxiv.org/pdf/2008.04791))
 Is every finitely generated simple vigorous group a quotient of the free product of $C_2$ and $C_3$?
 
@@ -40,7 +38,7 @@ continuity with respect to the class of second countable groups?
 
 1. ([source](https://arxiv.org/pdf/1912.07029)) Is every countable Polish semigroup topologically isomorphic to a subsemigroup of $\mathbb{N}^{\mathbb{N}}$?
 
-1. ([source](https://arxiv.org/pdf/1912.07029)) Are $\mathcal{I}_2$, $\mathcal{I}_3$ and $\mathcal{I}_4$ ${}_$ the only Polish semigroup topologies on $I_{\mathbb{N}}$.
+1. ([source](https://arxiv.org/pdf/1912.07029)) Are the two minimal Polish topologies and the unique maximal Polish topology on $I_{\mathbb{N}}$ the only Polish semigroup topologies on $I_{\mathbb{N}}$?
 
 1. ([source](https://arxiv.org/pdf/2112.13359))
  If two UDAF digraphs are shift equivalent then are they necessarily
@@ -112,7 +110,7 @@ How many Hausdorff group topologies does V admit?
 Is the Markov topology on the homeomorphism group of the Cantor space equal to the Zariski topology?
 
 1. ([source](https://arxiv.org/pdf/2601.15185))
-Is the Markov topology on homeomorphism group of the Cantor space Hausdorff ?
+Is the Markov topology on homeomorphism group of the Cantor space Hausdorff?
 
 1. ([source](https://arxiv.org/pdf/2601.15185))
 Can one classify which “sufficiently large” groups of homeomorphisms of the Cantor space have a Hausdorff Zariski topology (for some reasonable notion of sufficiently large).
@@ -148,7 +146,7 @@ Do any of the monoids $\text{Aut}(\mathbb{Q}, ≤)$, $\text{Aut}(R)$, $\text{End
 
 
 1. ([source](https://arxiv.org/pdf/2605.26906))
-Is it true that there is a semigroup compatible with precisely κ Polish semigroup
+Is it true that there is a semigroup compatible with precisely $\kappa$ Polish semigroup
 topologies if and only if $\kappa ∈ \{0, 1, \aleph_0, 2^{\aleph_0}, 2^{2^{\aleph_0}}\}$?
 
 
