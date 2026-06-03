@@ -148,7 +148,7 @@ Answer: No. This was first shown [here](https://arxiv.org/pdf/2312.17727v1). Mor
 
 ([source](https://arxiv.org/pdf/1912.07029)) Is every countable Polish semigroup topologically isomorphic to a subsemigroup of $\mathbb{N}^{\mathbb{N}}$?
 
-Answer: No. This was first shown [here](https://arxiv.org/pdf/2302.08988). Moreover the countable semigroup can even be chosen to be commutative Clifford and locally compact.
+Answer: No. This was first shown [here](https://arxiv.org/pdf/2302.08988). Moreover the countable semigroup can even be chosen to be commutative, Clifford and locally compact.
 
 
 ([source](https://arxiv.org/pdf/2203.11577)) Is there an ω-categorical relational structure $A$ such that the topology of pointwise conver-
