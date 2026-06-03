@@ -117,4 +117,27 @@ Question 6.4. Is the Markov topology on homeomorphism group of the Cantor space 
 Question 6.5. Can one classify which “sufficiently large” groups of homeomorphisms of the Cantor space have a Hausdorff
 Zariski topology (for some reasonable notion of sufficiently large).
 
+https://arxiv.org/pdf/2604.18104
+
+
+Question 8.1. Is there a finitely generated group with intermediate automorphic growth?
+
+Question 8.2. Are there any groups with polynomially bounded, but not polynomial automorphic
+growth rates?
+
+Question 8.3. Can automorphic growth be fully classified for all virtually abelian groups in a
+similar manner to Theorem 4.18?
+
+Question 8.4. Are there finitely presented non-virtually abelian groups with linear automorphic
+growth?
+
+
+Question 8.5. Is there a finitely generated group with exponential conjugacy growth but polynomial
+automorphic growth?
+
+Question 8.6. Is there a finitely presented group with exponential standard growth, but polynomial
+automorphic growth?
+
+Question 8.7. What is the automorphic growth of Thompson’s group F?
+
 
