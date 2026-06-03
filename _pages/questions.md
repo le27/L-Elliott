@@ -52,3 +52,37 @@ for the groups $Out(G_{n,n−1})$ $(n ≥ 2)$?
 
 1. ([source](https://arxiv.org/pdf/2112.13359))
 Suppose that $M_1$ and $M_2$ are UDAF relator equivalent UDAF relator matrices with the same size. It is necessarily possible to convert $M_1$ into $M_2$as in Theorem 7.8 without using operation (1)?
+
+
+1. ([source](https://arxiv.org/pdf/2203.11577))
+Is there an ω-categorical relational structure A such that the topology of pointwise conver-
+gence on End(A) is strictly finer than the Zariski topology?
+
+1. ([source](https://arxiv.org/pdf/2203.11577))
+The endomorphism monoids of which homogeneous graphs have a unique Polish topology?
+
+
+1. ([source](https://arxiv.org/pdf/2303.16044)) Are the Thompson monoids $M_{k,r}$ as defined by Birget finitely presented?
+
+
+1. ([source](https://arxiv.org/pdf/2501.10259))
+Let $C_1$ and $C_2$ be distinct language classes in the Chomsky hierarchy such
+that $C_1$ is a subclass of $C_2$. Does there exist a group in epi$C_2$ but not epi$C_1$?
+
+
+1. ([source](https://arxiv.org/pdf/2501.10259))
+Let $C_1$ and $C_2$ be distinct language classes such that $C_1$ is a subclass of
+$C_2$. Does there exist a reasonable group theoretic property P such that a group $G ∈epiC_1$ is
+equivalent to G has P and $G ∈epiC_2$?
+
+1. ([source](https://arxiv.org/pdf/2501.10259))
+Does there exist an epiRegular group which does not admit a rational cross
+section?
+
+1. ([source](https://arxiv.org/pdf/2501.10259))
+Is Grigorchuk’s group epiRegular?
+
+
+1. ([source](https://arxiv.org/pdf/2501.10259))
+Is the standard restricted wreath product of C2 with the Lamp-
+lighter group, an epiRegular group?
