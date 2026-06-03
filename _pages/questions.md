@@ -44,11 +44,6 @@ How many Hausdorff group topologies does V admit?
 1. ([source](https://arxiv.org/pdf/2601.15185))
 Can one classify which “sufficiently large” groups of homeomorphisms of the Cantor space have a Hausdorff Zariski topology (for some reasonable notion of sufficiently large).
 
-1. ([source](https://arxiv.org/pdf/1912.07029)) 
-What is the semigroup Zariski topology of the symmetric inverse monoid?
-
-1. ([source](https://arxiv.org/pdf/1912.07029)) Is the Frechet-Markov topology on a semigroup always contained in the Zariski topology?
-
 1. ([source](https://arxiv.org/pdf/2112.13359))
 Can the category UDAFG be used to build “small” generating sets
 for the groups $Out(G_{n,n−1})$ $(n ≥ 2)$? In particular is the group $Out(V)$ finitely generated?
@@ -161,3 +156,14 @@ Answer: Yes. This was first answered [here](https://arxiv.org/pdf/2308.09466#pag
 Are the Thompson monoids $M_{k,r}$ as defined by Birget finitely presented?
 
 Answer: Yes. The proof is to appear in a paper with Reinis Cirpons, Alex Levine, James Mitchell and myself.
+
+
+([source](https://arxiv.org/pdf/1912.07029)) 
+What is the semigroup Zariski topology of the symmetric inverse monoid?
+
+Answer: In a to appear paper with Serhii Bardyla, we show that this topology is zero-dimensional and every element which is not either $\mathscr{L}$ or $\mathscr{R}$ related to the identity has an uncountable neighbourhood base. We also gave a slightly better (but necessarily uncountable basis) for the topology. It's ambiguous what it means to ask what a topology `is' but I feel like this does that as much as is possible.
+
+([source](https://arxiv.org/pdf/1912.07029)) Is the Frechet-Markov topology on a semigroup always contained in the Zariski topology?
+
+Answer: No. In the same to appear paper with Serhii Bardyla we show that the semigroup Zarsiki topology on the symmetric inverse monoid is strictly courser than the Zariski topology.
+
