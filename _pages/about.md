@@ -9,7 +9,7 @@ redirect_from:
   -
 ---
 
-I like math. I go by she/her. I don't update my website that often so the list of papers for me [here](https://scholar.google.com/citations?user=3ZObZk0AAAAJ&hl=en) is likely to be more complete and up to date.
+I like math. My work is a mixture of topological semigroup theory and geometric group theory. I go by she/her.
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=3ZObZk0AAAAJ&hl=en)
 
