@@ -7,17 +7,15 @@ author_profile: true
 
 Below I give a list of still open questions I have previously asked in my papers. Motivation and backgroud for these questions can be found by following the source links. At the end of the list I also include questions which have since been answered. If you know the answers to any of the unanswered questions then please let me know!
 
-Last updated never
+Last updated 03/06/2026
 
 
 1. ([source](https://arxiv.org/pdf/2008.04791)) Does there exist a finitely presented simple group that is not 2-generated?
 
-1. ([source](https://arxiv.org/pdf/2008.04791)) If $G$ is a finitely gerated simple group of homeomorphisms which satisfies Epstein's Axioms, must $G$ actually be 2-generated?
+1. ([source](https://arxiv.org/pdf/2008.04791)) If $G$ is a finitely generated simple group of homeomorphisms which satisfies Epstein's Axioms, must $G$ actually be 2-generated?
 
 1. ([source](https://arxiv.org/pdf/2008.04791))
-For which space-group pairs $(X, H)$ is it the case that if $G ≤ \text{Homeo}(X)$
-is finitely generated, simple and vigorous with respect to H then G is two-generated.
-
+For which space-group pairs $(X, H)$ is it the case that if $G ≤ \text{Homeo}(X)$ is finitely generated, simple and vigorous with respect to H then G is two-generated.
 
 1. ([source](https://arxiv.org/pdf/2008.04791))
 What more can be said about the class of groups which have all finitely generated simple vigorous groups as quotients?
@@ -30,6 +28,8 @@ Is every finitely generated simple vigorous group a quotient of the free product
 1. ([source](https://arxiv.org/pdf/1912.07029)) Is the semigroup version of the Zariski topology applied to a group equal to the group
 version of the Zariski topology applied to the same group?
 
+Answer: No. This was first shown [here](https://arxiv.org/pdf/2312.17727v1). Moreover [here](https://arxiv.org/pdf/2506.11500) and [here](https://arxiv.org/pdf/2601.15185) we see that Thompson's group F is a counterexample.
+
 1. ([source](https://arxiv.org/pdf/1912.07029)) 
 What is the semigroup Zariski topology of the symmetric inverse monoid?
 
@@ -41,8 +41,7 @@ continuity with respect to the class of second countable groups?
 1. ([source](https://arxiv.org/pdf/1912.07029)) Are the two minimal Polish topologies and the unique maximal Polish topology on $I_{\mathbb{N}}$ the only three Polish semigroup topologies on $I_{\mathbb{N}}$?
 
 1. ([source](https://arxiv.org/pdf/2112.13359))
- If two UDAF digraphs are shift equivalent then are they necessarily
-strong UDAF equivalent?
+ If two UDAF digraphs are shift equivalent then are they necessarily strong UDAF equivalent?
 
 1. ([source](https://arxiv.org/pdf/2112.13359))
 Can the category UDAFG be used to build “small” generating sets
