@@ -41,3 +41,14 @@ continuity with respect to the class of second countable groups?
 1. ([source](https://arxiv.org/pdf/1912.07029)) Is every countable Polish semigroup topologically isomorphic to a subsemigroup of $\mathbb{N}^{\mathbb{N}}$?
 
 1. ([source](https://arxiv.org/pdf/1912.07029)) Are $\mathcal{I}_2$, $\mathcal{I}_3$ and $\mathcal{I}_4$ the only Polish semigroup topologies on $I_{\mathbb{N}}$.
+
+1. ([source](https://arxiv.org/pdf/2112.13359))
+ If two UDAF digraphs are shift equivalent then are they necessarily
+strong UDAF equivalent?
+
+1. ([source](https://arxiv.org/pdf/2112.13359))
+Can the category UDAFG be used to build “small” generating sets
+for the groups $Out(G_{n,n−1})$ $(n ≥ 2)$?
+
+1. ([source](https://arxiv.org/pdf/2112.13359))
+Suppose that $M_1$ and $M_2$ are UDAF relator equivalent UDAF relator matrices with the same size. It is necessarily possible to convert $M_1$ into $M_2$as in Theorem 7.8 without using operation (1)?
