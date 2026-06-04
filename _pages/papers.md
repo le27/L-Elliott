@@ -108,6 +108,8 @@ M Pinsker, Minimal and intrinsic topologies on monoids of elementary embeddings]
 
 1. [RD Gray and A Levine, Decidability of equations and first-order theory in Seifert 3-manifold groups](https://arxiv.org/pdf/2512.07690)
 
+1. [RD Gray and A Levine, Undecidable diophantine problems in generalisations of one-relator groups](https://arxiv.org/pdf/2605.30535)
+
 1. [S Harper, The spread of finite and infinite groups](https://arxiv.org/pdf/2210.09635)
 
 1. [JE Hanson, T Koberda, J González
@@ -150,8 +152,6 @@ weakly hyperbolic groups](https://arxiv.org/pdf/2605.14159)
 
 1. [C Schindler, Semigroup topologies on endomorphism
 monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/20.500.12708/193465/1/Schindler%20Clemens%20-%202023%20-%20Semigroup%20topologies%20on%20endomorphism%20monoids%20of...pdf)
-
-
 
 1. [O Tanner, Topological full groups](https://theses.gla.ac.uk/84586/2/2024TannerPhD.pdf)
 
