@@ -110,6 +110,8 @@ M Pinsker, Minimal and intrinsic topologies on monoids of elementary embeddings]
 
 1. [RD Gray and A Levine, Undecidable diophantine problems in generalisations of one-relator groups](https://arxiv.org/pdf/2605.30535)
 
+1. [J Gundelach, An embedding version of Rubin's theorem](https://arxiv.org/abs/2602.18197)
+
 1. [S Harper, The spread of finite and infinite groups](https://arxiv.org/pdf/2210.09635)
 
 1. [JE Hanson, T Koberda, J González
