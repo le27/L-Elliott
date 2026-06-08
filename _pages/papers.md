@@ -178,5 +178,6 @@ Plan to read list:
 
 [End(Q)](https://arxiv.org/pdf/2305.04921)
 
+[MarkovZariski](https://arxiv.org/abs/math/0703304)
 
 
