@@ -180,4 +180,6 @@ Plan to read list:
 
 [MarkovZariski](https://arxiv.org/abs/math/0703304)
 
+[Out(V) act](https://arxiv.org/pdf/2512.14324)
 
+[Type Systems](https://arxiv.org/abs/2206.12631)
