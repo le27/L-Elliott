@@ -7,6 +7,12 @@ author_profile: true
 
 Last updated 10/02/2026
 
+Thompson Partition Monoids and Jonsson-Tarski algebras: Theoretical and Computatuonal algebra (Guimaraes) 2026
+
+Reconstructing topologies on monoids: ATTI 2026
+
+Thompson Monoids: RIMS conference (kyoto) 2026
+
 Topologizing Endomorphism Monoids: AAA (Vienna) 2026
 
 Thompson Monoids: NBSAN (Durham) 2025
