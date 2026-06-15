@@ -5,7 +5,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-Last updated 10/02/2026
+Last updated 15/06/2026
 
 Thompson Partition Monoids and Jonsson-Tarski algebras: Theoretical and Computatuonal algebra (Guimaraes) 2026
 
