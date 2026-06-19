@@ -183,3 +183,5 @@ Plan to read list:
 [Out(V) act](https://arxiv.org/pdf/2512.14324)
 
 [Type Systems](https://arxiv.org/abs/2206.12631)
+
+[Maths of Japanese](https://arxiv.org/abs/2303.05834)
