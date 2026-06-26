@@ -1,4 +1,4 @@
----
+8---
 title: Papers
 permalink: /papers/
 author_profile: true
@@ -185,3 +185,7 @@ Plan to read list:
 [Type Systems](https://arxiv.org/abs/2206.12631)
 
 [Maths of Japanese](https://arxiv.org/abs/2303.05834)
+
+[Mixed Identities](https://arxiv.org/abs/2606.24741)
+
+[Alexandrov groupa](https://arxiv.org/abs/2604.26730)
