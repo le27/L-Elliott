@@ -1,4 +1,4 @@
-8---
+---
 title: Papers
 permalink: /papers/
 author_profile: true
@@ -125,7 +125,10 @@ and C Rosendal, Set theory, logic, and homeomorphism groups of manifolds](https:
 
 1. [KL Kozlov, AG Leiderman, On proper compactifications of topological groups](https://arxiv.org/pdf/2604.23201)
 
+
 1. [P Marimon and M Pinsker, A guide to topological reconstruction on endomorphism monoids and polymorphism clones](https://arxiv.org/pdf/2512.01086)
+
+1. [P Marimon and M Pinsker, All mixed identities are singular in groups with no algebraicity](https://arxiv.org/abs/2606.24741)
 
 1. [M Megrelishvili, M Shlossberg, Non-archimedean topological monoids](https://link.springer.com/content/pdf/10.1007/s00233-024-10485-z.pdf)
 
