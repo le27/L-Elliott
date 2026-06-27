@@ -7,7 +7,7 @@ author_profile: true
 
 Last updated 15/06/2026
 
-[Thompson Partition Monoids and Jonsson-Tarski algebras](https://le27.github.io/L-Elliott/files/Portugal%202026.pdf): Theoretical and Computatuonal algebra (Guimaraes) 2026
+[Thompson Partition Monoids and Jonsson-Tarski algebras](https://le27.github.io/L-Elliott/files/Portugal%202026.pdf): Theoretical and Computatuonal algebra (Guimaraes) 2026 ([practice](https://www.youtube.com/watch?v=jqJbDMOKQMw))
 
 Reconstructing topologies on monoids: ATTI 2026
 
