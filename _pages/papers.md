@@ -191,4 +191,7 @@ Plan to read list:
 
 [Mixed Identities](https://arxiv.org/abs/2606.24741)
 
-[Alexandrov groupa](https://arxiv.org/abs/2604.26730)
+[Alexandrov groups](https://arxiv.org/abs/2604.26730)
+
+
+[Leavitt path algebras](https://link.springer.com/chapter/10.1007/978-1-4471-7344-1_1)
