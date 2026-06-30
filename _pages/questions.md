@@ -42,7 +42,7 @@ Do either of the Polish topological semigroups $(\text{End}(\mathbb{Z}, ≤), T_
 How many Hausdorff group topologies does V admit?
 
 1. ([source](https://arxiv.org/pdf/2601.15185))
-Can one classify which “sufficiently large” groups of homeomorphisms of the Cantor space have a Hausdorff Zariski topology (for some reasonable notion of sufficiently large)?
+Can one classify which “sufficiently large” groups of homeomorphisms of the Cantor space have a non-Hausdorff Zariski topology (for some reasonable notion of sufficiently large)?
 
 1. ([source](https://arxiv.org/pdf/2112.13359))
 Can the category UDAFG be used to build “small” generating sets
