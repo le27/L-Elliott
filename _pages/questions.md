@@ -159,7 +159,7 @@ Answer: Yes. The proof is to appear in a paper with Reinis Cirpons, Alex Levine,
 ([source](https://arxiv.org/pdf/1912.07029)) 
 What is the semigroup Zariski topology of the symmetric inverse monoid?
 
-Answer: In a to appear paper with Serhii Bardyla, we show that this topology is zero-dimensional and every element which is not either $\mathscr{L}$ or $\mathscr{R}$ related to the identity has an uncountable neighbourhood base. We also gave a slightly better (but necessarily uncountable basis) for the topology. It's ambiguous what it means to ask what a topology `is' but I feel like this does that as much as is possible.
+Answer: In a to appear paper with Serhii Bardyla, we show that this topology is zero-dimensional and every element which is not either $\mathscr{L}$ or $\mathscr{R}$ related to the identity has an uncountable neighbourhood base. We also gave a slightly better (but necessarily uncountable) basis for the topology. It's ambiguous what it means to ask what a topology `is' but I feel like this does that as much as is possible.
 
 ([source](https://arxiv.org/pdf/1912.07029)) Is the Frechet-Markov topology on a semigroup always contained in the Zariski topology?
 
