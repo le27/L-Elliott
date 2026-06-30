@@ -5,6 +5,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+Last updated 30/06/2026
+
 ## [Binghamton Department of Mathematics and Statistics](https://www2.math.binghamton.edu/p/start)
 
 ### Academic Year 2023-2024
