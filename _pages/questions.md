@@ -144,10 +144,9 @@ Answer: No. This was first shown [here](https://arxiv.org/pdf/2312.17727v1). Mor
 Answer: No. This was first shown [here](https://arxiv.org/pdf/2302.08988). Moreover the countable semigroup can even be chosen to be commutative, Clifford and locally compact.
 
 
-([source](https://arxiv.org/pdf/2203.11577)) Is there an ω-categorical relational structure $A$ such that the topology of pointwise conver-
-gence on $\text{End}(A)$ is strictly finer than the Zariski topology?
+([source](https://arxiv.org/pdf/2203.11577)) Is there an ω-categorical relational structure $A$ such that the topology of pointwise convergence on $\text{End}(A)$ is strictly finer than the Zariski topology?
 
-Answer: Yes. This was first answered [here](https://arxiv.org/pdf/2308.09466#page=8.42). The structure can even be chosed to be homogeneous in a finite language.
+Answer: Yes. This was first answered [here](https://arxiv.org/pdf/2308.09466#page=8.42). The structure can even be chosen to be homogeneous in a finite language.
 
 
 ([source](https://arxiv.org/pdf/2303.16044))
