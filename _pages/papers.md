@@ -13,7 +13,7 @@ Last updated 29/06/2026
 
 1. [L Elliott, A Evetts and A Levine. Counting Automorphic Orbits in Finitely Generated Groups, 2026](https://arxiv.org/abs/2604.18104)
 
-1. [L Elliott, The Zariski Topology on Homeomorphism groups, 2026](https://arxiv.org/abs/2601.15185) [Topology and its Applications](https://doi.org/10.1016/j.topol.2026.109899)
+1. [L Elliott, The Zariski Topology on Homeomorphism groups, 2026](https://arxiv.org/abs/2601.15185) [Published in Topology and its Applications](https://doi.org/10.1016/j.topol.2026.109899)
 
 1. [S Bardyla, L Elliott, J Mitchell and Y Peresse. A note on intrinsic topologies of groups, 2025](https://arxiv.org/abs/2506.11500)[Submitted to Journal of Algebra]
 
