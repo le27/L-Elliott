@@ -11,7 +11,7 @@ Last updated 29/06/2026
    
 1. [L Elliott, A Levine. Commutative decomposition of infinite symmetric groups and transformation monoids, 2026](https://arxiv.org/abs/2605.14862)[Submitted to Bulletin of the London Mathematical Society]
 
-1. [L Elliott, A Evetts and A Levine. Counting Automorphic Orbits in Finitely Generated Groups, 2026](https://arxiv.org/abs/2604.18104)
+1. [L Elliott, A Evetts and A Levine. Counting Automorphic Orbits in Finitely Generated Groups, 2026](https://arxiv.org/abs/2604.18104)[Submitted to Canadian journal of mathematics] 
 
 1. [L Elliott, The Zariski Topology on Homeomorphism groups, 2026](https://arxiv.org/abs/2601.15185) [Published in Topology and its Applications](https://doi.org/10.1016/j.topol.2026.109899)
 
@@ -67,6 +67,8 @@ Last updated 29/06/2026
 Currently working on more projects with the following authors [L Elliott], [L Elliott + A Levine], [L Elliott + G Crowe], [L Elliott + S Bardyla]x2, [L Elliott + S Bardyla + Y Peresse], [L Elliott + R Cirpons + A Levine + J Mitchell], [L Elliott + N Kolodny].
 
 Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+12+21}{19} \approx 23.26$$ pages.
+
+11/19 of lunas papers are currently published in journals.
 
 Articles that have cited Luna's papers as of 02/06/2026 (excluding papers already mentioned above):
 
