@@ -29,7 +29,7 @@ Teacher for two classes, delivering a total of 9 hours of teaching in class per 
 Semester 2:
 304 Linear algebra
 
-Teacher for one classe, delivering a total of 4.5 hours of teaching in class per week. Responsibilities included designing, writing, and grading examinations, quizzes, and homework assignments, as well as holding 3 weekly office hours to provide academic support and student guidance.
+Teacher for one class, delivering a total of 4.5 hours of teaching in class per week. Responsibilities included designing, writing, and grading examinations, quizzes, and homework assignments, as well as holding 3 weekly office hours to provide academic support and student guidance.
 
 ## [St Andrews School of Mathematics and Statistics](https://www.st-andrews.ac.uk/maths/)
 
