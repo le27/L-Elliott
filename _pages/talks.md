@@ -5,7 +5,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-Last updated 30/06/2026
+Last updated 22/07/2026
 
 1. Reconstructing topologies on monoids: ATTI 2026 [practice](https://www.youtube.com/watch?v=9Vb8ooRt8i0)
 
