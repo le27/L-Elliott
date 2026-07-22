@@ -7,9 +7,9 @@ author_profile: true
 
 Last updated 22/07/2026
 
-1. Reconstructing topologies on monoids: ATTI 2026 ([practice talk](https://www.youtube.com/watch?v=9Vb8ooRt8i0))
+1. Reconstructing topologies on monoids: ATTI 2026 ([see practice talk here](https://www.youtube.com/watch?v=9Vb8ooRt8i0))
 
-2. [Thompson Partition Monoids and Jonsson-Tarski algebras](https://le27.github.io/L-Elliott/files/Portugal%202026.pdf): Theoretical and Computatuonal algebra (Guimaraes) 2026 ([practice talk](https://www.youtube.com/watch?v=jqJbDMOKQMw))
+2. [Thompson Partition Monoids and Jonsson-Tarski algebras](https://le27.github.io/L-Elliott/files/Portugal%202026.pdf): Theoretical and Computatuonal algebra (Guimaraes) 2026 ([see practice talk here](https://www.youtube.com/watch?v=jqJbDMOKQMw))
 
 2. Automorphic Growth: Semigroup seminar (Manchester) 2026
    
