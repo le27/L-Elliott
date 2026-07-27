@@ -21,6 +21,8 @@ I like math. My work is a mixture of topological semigroup theory and geometric 
 
 As of 21/01/2026 I appear to have an [erdos number](https://zbmath.org/collaboration-distance/?a=elliott.luna&b=erdos.paul) of 3.
 
+[Here](https://sudokupad.app/h3kt72dco0)'s a puzzle I made.
+
 ## Contact details
 
 Email: luna.elliott142857@gmail.com
