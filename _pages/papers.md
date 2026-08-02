@@ -88,8 +88,10 @@ Articles that have cited Luna's papers as of 02/06/2026 (excluding papers alread
 
 1. [J Belk, C Bleak, M Quick and R Skipper, Type systems and maximal subgroups of Thompson's group 𝑉](https://arxiv.org/pdf/2206.12631)
 
-1. [J.C. Birget, Some properties of Higman-Thompson monoids
+1. [J Birget, Some properties of Higman-Thompson monoids
 and digital circuits](https://arxiv.org/pdf/2403.12674)
+
+1. [C Bleak, C Donoven, S Harper, J Hyde, Generating simple vigorous groups](https://arxiv.org/abs/2607.21754)
 
 1. [A Brothier and R Seelig, Finitely presented simple groups with no piecewise projective actions](https://arxiv.org/pdf/2512.18943)
 
@@ -108,9 +110,13 @@ M Pinsker, Minimal and intrinsic topologies on monoids of elementary embeddings]
 
 1. [R Gorazd, Higman–Thompson groups of unfolding trees of rooted graphs](https://openresearch.newcastle.edu.au/ndownloader/files/55942097)
 
+
 1. [RD Gray and A Levine, Decidability of equations and first-order theory in Seifert 3-manifold groups](https://arxiv.org/pdf/2512.07690)
 
+1. [RD Gray and A Levine, The Diophantine problem in the Baumslag-Gersten group](https://arxiv.org/abs/2607.24189)
+
 1. [RD Gray and A Levine, Undecidable diophantine problems in generalisations of one-relator groups](https://arxiv.org/pdf/2605.30535)
+
 
 1. [J Gundelach, An embedding version of Rubin's theorem](https://arxiv.org/abs/2602.18197)
 
@@ -126,7 +132,6 @@ and C Rosendal, Set theory, logic, and homeomorphism groups of manifolds](https:
 1. [T Koberda and Y Lodha, Generic torsion-free groups and Rubin actions](https://arxiv.org/pdf/2503.11772)
 
 1. [KL Kozlov, AG Leiderman, On proper compactifications of topological groups](https://arxiv.org/pdf/2604.23201)
-
 
 1. [P Marimon and M Pinsker, A guide to topological reconstruction on endomorphism monoids and polymorphism clones](https://arxiv.org/pdf/2512.01086)
 
