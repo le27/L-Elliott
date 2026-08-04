@@ -103,13 +103,14 @@ and digital circuits](https://arxiv.org/pdf/2403.12674)
 
 1. [A Carvalho and CF Nyberg-Brodda, On linguistic subsets of groups and monoids](https://arxiv.org/pdf/2502.14329)
 
+1. [F Flores, Mixed-identity-freeness and primitivity of group rings]
+
 1. [G Goffer and B Greenfeld, A note on the Zariski topology on groups and semigroups](https://arxiv.org/pdf/2312.17727)
 
 1. [J Gonzalez, Z Ghadernezhad, P Marimon, and
 M Pinsker, Minimal and intrinsic topologies on monoids of elementary embeddings](https://arxiv.org/pdf/2603.28419)
 
 1. [R Gorazd, Higman–Thompson groups of unfolding trees of rooted graphs](https://openresearch.newcastle.edu.au/ndownloader/files/55942097)
-
 
 1. [RD Gray and A Levine, Decidability of equations and first-order theory in Seifert 3-manifold groups](https://arxiv.org/pdf/2512.07690)
 
