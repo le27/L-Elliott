@@ -11,8 +11,8 @@ Last updated 02/08/2026
    
 1. [L Elliott, A Levine. Commutative decomposition of infinite symmetric groups and transformation monoids, 2026](https://arxiv.org/abs/2605.14862)[Submitted to Bulletin of the London Mathematical Society]
 
-1. [L Elliott, A Evetts and A Levine. Counting Automorphic Orbits in Finitely Generated Groups, 2026](https://arxiv.org/abs/2604.18104)[Submitted to Canadian journal of mathematics] 
-
+1. [L Elliott, A Evetts and A Levine. Counting Automorphic Orbits in Finitely Generated Groups, 2026](https://arxiv.org/abs/2604.18104)
+   
 1. [L Elliott, The Zariski Topology on Homeomorphism groups, 2026](https://arxiv.org/abs/2601.15185) [Published in Topology and its Applications](https://doi.org/10.1016/j.topol.2026.109899)
 
 1. [S Bardyla, L Elliott, J Mitchell and Y Peresse. A note on intrinsic topologies of groups, 2025](https://arxiv.org/abs/2506.11500)[Submitted to Journal of Algebra]
@@ -70,7 +70,7 @@ Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+
 
 11/19 of lunas papers are currently published in journals.
 
-Articles that have cited Luna's papers as of 02/06/2026 (excluding papers already mentioned above):
+Articles that have cited at least one Luna's papers as of 22/08/2026 (excluding Luna's own articles):
 
 1. [K Arana, J Pérez and C Uzcátegui, Pettis property for Polish inverse semigroups](https://arxiv.org/pdf/2203.14146)
 
@@ -103,7 +103,7 @@ and digital circuits](https://arxiv.org/pdf/2403.12674)
 
 1. [A Carvalho and CF Nyberg-Brodda, On linguistic subsets of groups and monoids](https://arxiv.org/pdf/2502.14329)
 
-1. [F Flores, Mixed-identity-freeness and primitivity of group rings]
+1. [F Flores, Mixed-identity-freeness and primitivity of group rings](https://arxiv.org/abs/2607.28316)
 
 1. [G Goffer and B Greenfeld, A note on the Zariski topology on groups and semigroups](https://arxiv.org/pdf/2312.17727)
 
