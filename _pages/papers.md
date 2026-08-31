@@ -191,8 +191,7 @@ monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/2
 
 1. [D Yang and W Yang, Homomorphism-homogeneous finite semilattices](https://www.sciencedirect.com/science/article/pii/S0021869326002267?casa_token=ibAygt9JPFQAAAAA:XgNQ_YRyVQXuDoHL7pofl_HBp3hjPPbbikY9LH4uPBTa8C5kmJbMOSWDMx24irTcVR6EyKglgxQ)
 
-
-Plan to read list:
+##### Plan to read list
 
 [ElementaryEmbeddings](https://arxiv.org/pdf/2603.28419)
 
@@ -213,6 +212,5 @@ Plan to read list:
 [Mixed Identities](https://arxiv.org/abs/2606.24741)
 
 [Alexandrov groups](https://arxiv.org/abs/2604.26730)
-
 
 [Leavitt path algebras](https://link.springer.com/chapter/10.1007/978-1-4471-7344-1_1)
