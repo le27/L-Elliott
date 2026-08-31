@@ -77,46 +77,9 @@ Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+
 
 ##### Previous Coauthors
 
-L Elliott x20
-
-J. Mitchell x8
-
-A. Levine x6
-
-Y. Péresse x6
-
-S. Bardyla x5
-
-C. Bleak x2
-
-J. Jonusas x2
-
-R. Al Kohli x1
-
-J. Belk x1
-
-B. de Witt x1
-
-A. Evetts x1
-
-J. Hyde x1
-
-F. Matucci x1
-
-Z. Mesyan x1
-
-M. Morayne x1
-
-M. Pinsker x1
-
-
-
-
-
-
-
-
-
+| Author            | L. Elliott | J. Mitchell | A. Levine | Y. Péresse | S. Bardyla | C. Bleak | J. Jonusas | R. Al Kohli | J. Belk | B. de Witt | A. Evetts | J. Hyde | F. Matucci | Z. Mesyan | M. Morayne | M. Pinsker |
+| --------          | -------    | --------    | -------   | -------    | -------    | -------  | -------    | -------     | ------- | -------    | -------   | ------- | -------    | -------     | -------    | -------    |
+| Joint Paper Count | 20         | 8           | 6         | 5          | 5          | 2        | 2          | 1           | 1       | 1          | 1         | 1       | 1          | 1           | 1          | 1          |
 
 
 ##### Citing papers
