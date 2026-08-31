@@ -19,7 +19,7 @@ Last updated 31/08/2026
 
 1. [S Bardyla, L Elliott, J Mitchell and Y Peresse. A note on intrinsic topologies of groups, 2025](https://arxiv.org/abs/2506.11500)[Submitted to Journal of Algebra]
 
-1. [A Levine and L Elliott. The Diophantine problem in Thompson's group F, 2025](https://arxiv.org/abs/2502.14970) [Published in Mathematics of Computation](https://doi.org/10.1090/mcom/4113)
+1. [L Elliott and A Levine. The Diophantine problem in Thompson's group F, 2025](https://arxiv.org/abs/2502.14970) [Published in Mathematics of Computation](https://doi.org/10.1090/mcom/4113)
 
 13. [R Al Kohli, C Bleak and L Elliott. On epiC groups over language class C, 2025](https://arxiv.org/abs/2501.10259)[Submitted to Journal of Algebra]
 
@@ -66,13 +66,61 @@ Last updated 31/08/2026
 
 
 ### Other random info luna wanted to track:
+##### Current Projects
 Currently working on more projects with the following authors [L Elliott], [L Elliott + A Levine], [L Elliott + G Crowe], [L Elliott + S Bardyla]x2, [L Elliott + R Cirpons + A Levine + J Mitchell], [L Elliott + N Kolodny].
 
+##### Length of papers
 Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+12+21+15}{20} \approx 22.85$$ pages.
 
-11/19 of lunas papers are currently published in journals.
+##### Publication count
+11/20 of lunas papers are currently published in journals.
 
-Articles that have cited at least one Luna's papers as of 22/08/2026 (excluding Luna's own articles):
+##### Previous Coauthors
+
+L Elliott x20
+
+J. Mitchell x8
+
+A. Levine x6
+
+Y. Péresse x6
+
+S. Bardyla x5
+
+C. Bleak x2
+
+J. Jonusas x2
+
+R. Al Kohli x1
+
+J. Belk x1
+
+B. de Witt x1
+
+A. Evetts x1
+
+J. Hyde x1
+
+F. Matucci x1
+
+Z. Mesyan x1
+
+M. Morayne x1
+
+M. Pinsker x1
+
+
+
+
+
+
+
+
+
+
+
+##### Citing papers
+Articles that have cited at least one Luna's papers as of 31/08/2026 (excluding Luna's own articles):
 
 1. [K Arana, J Pérez and C Uzcátegui, Pettis property for Polish inverse semigroups](https://arxiv.org/pdf/2203.14146)
 
