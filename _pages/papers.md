@@ -4,9 +4,11 @@ permalink: /papers/
 author_profile: true
 ---
 
-Last updated 02/08/2026
+Last updated 31/08/2026
 
 ### Research Articles:
+1. [S. Bardyla, L. Elliott, Y. Péresse. Maximal subgroups of homeomorphism groups, 2026](https://arxiv.org/abs/2608.28211)
+
 1. [S Bardyla, L Elliott. Polish topologies on endomorphism monoids of linear orders, 2026](https://arxiv.org/abs/2605.26906)[Submitted to Journal of the Institute of Mathematics of Jussieu]
    
 1. [L Elliott, A Levine. Commutative decomposition of infinite symmetric groups and transformation monoids, 2026](https://arxiv.org/abs/2605.14862)[Submitted to Bulletin of the London Mathematical Society]
@@ -64,9 +66,9 @@ Last updated 02/08/2026
 
 
 ### Other random info luna wanted to track:
-Currently working on more projects with the following authors [L Elliott], [L Elliott + A Levine], [L Elliott + G Crowe], [L Elliott + S Bardyla]x2, [L Elliott + S Bardyla + Y Peresse], [L Elliott + R Cirpons + A Levine + J Mitchell], [L Elliott + N Kolodny].
+Currently working on more projects with the following authors [L Elliott], [L Elliott + A Levine], [L Elliott + G Crowe], [L Elliott + S Bardyla]x2, [L Elliott + R Cirpons + A Levine + J Mitchell], [L Elliott + N Kolodny].
 
-Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+12+21}{19} \approx 23.26$$ pages.
+Average paper length: $$\frac{37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+12+21+15}{20} \approx 22.85$$ pages.
 
 11/19 of lunas papers are currently published in journals.
 
