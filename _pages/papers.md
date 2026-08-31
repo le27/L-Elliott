@@ -214,3 +214,5 @@ monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/2
 [Alexandrov groups](https://arxiv.org/abs/2604.26730)
 
 [Leavitt path algebras](https://link.springer.com/chapter/10.1007/978-1-4471-7344-1_1)
+
+[Generic groups](https://arxiv.org/abs/2503.11772)
