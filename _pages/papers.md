@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-Last updated 31/08/2026
+Last updated 01/10/2026
 
 ### Research Articles:
 1. [S. Bardyla, L. Elliott, Y. Péresse. Maximal subgroups of homeomorphism groups, 2026](https://arxiv.org/abs/2608.28211)
@@ -83,7 +83,7 @@ Average paper length: $$(37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+12+21
 
 
 ##### Citing papers
-Articles that have cited at least one Luna's papers as of 31/08/2026 (excluding Luna's own articles):
+Articles that have cited at least one Luna's papers as of 01/10/2026 (excluding Luna's own articles):
 
 1. [K Arana, J Pérez and C Uzcátegui, Pettis property for Polish inverse semigroups](https://arxiv.org/pdf/2203.14146)
 
