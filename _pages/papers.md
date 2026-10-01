@@ -87,6 +87,8 @@ Articles that have cited at least one Luna's papers as of 31/08/2026 (excluding 
 
 1. [K Arana, J Pérez and C Uzcátegui, Pettis property for Polish inverse semigroups](https://arxiv.org/pdf/2203.14146)
 
+1. [R Arimoto, C*-Selflessness of vigorous groups](https://arxiv.org/pdf/2609.29399)
+
 1. [T Banakh and S Bardyla, Categorically closed countable semigroups](https://arxiv.org/pdf/2111.14154)
 
 1. [S Bardyla, Countably compact inverse semigroups and Nyikos' problem](https://arxiv.org/pdf/2503.13666)
@@ -216,3 +218,5 @@ monoids of omega-categorical structures](https://repositum.tuwien.at/bitstream/2
 [Leavitt path algebras](https://link.springer.com/chapter/10.1007/978-1-4471-7344-1_1)
 
 [Generic groups](https://arxiv.org/abs/2503.11772)
+
+[C* vigorous](https://arxiv.org/pdf/2609.29399)
