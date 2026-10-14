@@ -9,7 +9,7 @@ Last updated 14/08/2026
 
 1. Simultanious Conjugacy in V: LiT IV Landing in Topology (Pisa) 2026 ([see practice talk here](https://youtu.be/yHC6DQuvI74))
 
-1. Thompson Monoids: Manchester semigroup seminar
+1. Thompson Monoids and Jonsson-Tarski algebras: Semigroup seminar (Manchester) 2026
 
 1. [Reconstructing topologies on monoids: ATTI 2026](https://le27.github.io/L-Elliott/files/Algebra,%20Topology%20and%20Interactions%20hor%20(2).pdf) ([see practice talk here](https://www.youtube.com/watch?v=9Vb8ooRt8i0))
 
