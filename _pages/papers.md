@@ -85,7 +85,7 @@ Average paper length: $$(37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+12+21
 
 
 ##### Citing papers
-Articles that have cited at least one Luna's papers as of 01/10/2026 (excluding Luna's own articles):
+Articles that have cited at least one Luna's papers  (excluding Luna's own articles):
 
 1. [K Arana, J Pérez and C Uzcátegui, Pettis property for Polish inverse semigroups](https://arxiv.org/pdf/2203.14146)
 
