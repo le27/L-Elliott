@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-Last updated 20/10/2026
+Last updated 21/10/2026
 
 ### Research Articles:
 1. [S. Bardyla, L. Elliott, Y. Péresse. Maximal subgroups of homeomorphism groups, 2026](https://arxiv.org/abs/2608.28211)
