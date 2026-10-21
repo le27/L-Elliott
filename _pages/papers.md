@@ -77,9 +77,11 @@ Average paper length: $$(37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+12+21
 
 ##### Previous Coauthors
 
-| Author         | L_Elliott | J_Mitchell | A_Levine | S_Bardyla | Y_Péresse | C_Bleak | J_Jonusas | R_Al_Kohli | J_Belk | B_de_Witt | A_Evetts | J_Hyde | F_Matucci | Z_Mesyan | M_Morayne | M_Pinsker |
-| --------       | -------   | --------   | -------  | -------   | -------   | ------- | -------   | -------    | -------| -------   | -------  | -------| -------   | -------  | -------   | -------   |
-| Joint_Papers:  | 20        | 8          | 6        | 5         | 5         | 2       | 2         | 1          | 1      | 1         | 1        | 1      | 1         | 1        | 1         | 1         |
+| Joint_Papers count:  | 20        | 8          | 6        | 5                 | 2                | 1            |
+| --------       | -------   | --------   | -------  | -------   | -------   | -------   |
+| Author         | L_Elliott | J_Mitchell | A_Levine | S_Bardyla,  Y_Péresse | C_Bleak,  J_Jonusas | R_Al_Kohli,  J_Belk,  B_de_Witt,  A_Evetts,  J_Hyde,  F_Matucci,  Z_Mesyan,  M_Morayne,  M_Pinsker |
+
+
 
 
 ##### Citing papers
@@ -176,6 +178,8 @@ and C Rosendal, Set theory, logic, and homeomorphism groups of manifolds](https:
 1. [E Rybak, Boundary dynamics, triple transitivity, and mixed identities in
 weakly hyperbolic groups](https://arxiv.org/pdf/2605.14159)
 
+1. [V, Salo, Conjugacy problems in higher-dimensional Thompson groups](https://arxiv.org/abs/2610.11124v1)
+   
 1. [R Sauer, E Schesler, A finitely presented group of non-uniform exponential growth](https://arxiv.org/pdf/2605.30163)
 
 1. [C Schindler, Semigroup topologies on endomorphism
