@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-Last updated 21/10/2026
+Last updated 26/10/2026
 
 ### Research Articles:
 1. [S. Bardyla, L. Elliott, Y. Péresse. Maximal subgroups of homeomorphism groups, 2026](https://arxiv.org/abs/2608.28211)
@@ -119,6 +119,8 @@ and digital circuits](https://arxiv.org/pdf/2403.12674)
 1. [B Cameron, Abstract ping-pong systems in subgroups of Thompson’s groups](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/33513/Thesis-Bromlyn-Cameron-complete-version.pdf?sequence=5&isAllowed=y)
 
 1. [A Carvalho and CF Nyberg-Brodda, On linguistic subsets of groups and monoids](https://arxiv.org/pdf/2502.14329)
+
+1. [L Ciobanu, R Gray, A Levine, The Diophantine Problem with constraints in some free-by-cyclic groups](https://arxiv.org/abs/2610.29831v1)
 
 1. [F Flores, Mixed-identity-freeness and primitivity of group rings](https://arxiv.org/abs/2607.28316)
 
