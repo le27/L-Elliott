@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-Last updated 26/10/2026
+Last updated 02/11/2026
 
 ### Research Articles:
 1. [S. Bardyla, L. Elliott, Y. Péresse. Maximal subgroups of homeomorphism groups, 2026](https://arxiv.org/abs/2608.28211)
@@ -31,7 +31,7 @@ Last updated 26/10/2026
 10. [L Elliott, A Levine and J Mitchell. E-disjunctive inverse semigroups, 2024](https://arxiv.org/abs/2405.19825)
 [Published in Journal of Algebra](https://doi.org/10.1016/j.jalgebra.2025.08.041)
 
-9. [B de Witt and L Elliott. Finite Presentability of Brin-Higman-Thompson Monoids via Free J\'onsson-Tarski Algebras, 2023](https://arxiv.org/abs/2303.16044)[Submitted to Semigroup Forum]
+9. [B de Witt and L Elliott. Finite Presentability of Brin-Higman-Thompson Monoids via Free J\'onsson-Tarski Algebras, 2023](https://arxiv.org/abs/2303.16044)[Accepted in Semigroup Forum]
 
 8. [S Bardyla, L Elliott, J Mitchell and Y Peresse, Topological embeddings into transformation monoids, 2023](https://arxiv.org/abs/2302.08988)
 [Published in Forum Mathematicum](https://doi.org/10.1515/forum-2023-0230)
