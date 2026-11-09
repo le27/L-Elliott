@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-Last updated 05/11/2026
+Last updated 09/11/2026
 
 I have not yet used of AI to aid in my research. However it is likely that I or my coauthors will eventually opt to use AI as a tool to aid in our work. If this ever happens, my work will continue to be fully verified by me personally. In particular I will continue to take full responsibility for the mathematics in my papers. 
 The human emoji 🧑 marks any of my papers written by humans (which will be all of them). The robot emoji 🤖 will be used to mark papers written with the assistance of AI (currently none of them). I stole the cute emoji idea from [Cary Malkiewich](https://people.math.binghamton.edu/malkiewich/).
@@ -16,7 +16,7 @@ The human emoji 🧑 marks any of my papers written by humans (which will be all
    
 1. 🧑[L Elliott, A Levine. Commutative decomposition of infinite symmetric groups and transformation monoids, 2026](https://arxiv.org/abs/2605.14862)[Submitted to Bulletin of the London Mathematical Society]
 
-1. 🧑[L Elliott, A Evetts and A Levine. Counting Automorphic Orbits in Finitely Generated Groups, 2026](https://arxiv.org/abs/2604.18104) [Submitted to IJAC]
+1. 🧑[L Elliott, A Evetts and A Levine. Counting Automorphic Orbits in Finitely Generated Groups, 2026](https://arxiv.org/abs/2604.18104) [Submitted to the International Journal of Algebra and Computation]
    
 1. 🧑[L Elliott, The Zariski Topology on Homeomorphism groups, 2026](https://arxiv.org/abs/2601.15185) [Published in Topology and its Applications](https://doi.org/10.1016/j.topol.2026.109899)
 
