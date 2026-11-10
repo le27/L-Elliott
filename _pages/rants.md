@@ -5,9 +5,6 @@ author_profile: true
 ---
 
 
-
-## Rants
-
 ### The Empty Set
 I wrote the following text as a PhD student. The reasoning is out of date but the spirit of the message remains true.
 
