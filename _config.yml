@@ -237,6 +237,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+# _polls
+  - scope:
+      path: ""
+      type: polls
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
