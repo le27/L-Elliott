@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-Last updated 09/11/2026
+Last updated 15/11/2026
 
 I have not yet used of AI to aid in my research. However it is likely that I or my coauthors will eventually opt to use AI as a tool to aid in our work. If this ever happens, my work will continue to be fully verified by me personally. In particular I will continue to take full responsibility for the mathematics in my papers. 
 The human emoji 🧑 marks any of my papers written by humans (which will be all of them). The robot emoji 🤖 will be used to mark papers written with the assistance of AI (currently none of them). I stole the cute emoji idea from [Cary Malkiewich](https://people.math.binghamton.edu/malkiewich/).
@@ -124,6 +124,8 @@ and digital circuits](https://arxiv.org/pdf/2403.12674)
 1. [A Carvalho and CF Nyberg-Brodda, On linguistic subsets of groups and monoids](https://arxiv.org/pdf/2502.14329)
 
 1. [L Ciobanu, R Gray, A Levine, The Diophantine Problem with constraints in some free-by-cyclic groups](https://arxiv.org/abs/2610.29831v1)
+
+1.  [Z Di, L Li, L Liang, Continuous representations of topological monoids via reconstruction](https://arxiv.org/abs/2611.16436)
 
 1. [F Flores, Mixed-identity-freeness and primitivity of group rings](https://arxiv.org/abs/2607.28316)
 
