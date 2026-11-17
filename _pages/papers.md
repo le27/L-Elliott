@@ -82,7 +82,7 @@ Average paper length: $(37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+12+21+
 
 ##### Previous Coauthors
 
-| Joint_Papers count:  | 20        | 9          | 7        | 5                 | 2                | 1            |
+| Joint_Papers count:  | 21        | 9          | 7        | 5                 | 2                | 1            |
 | --------       | -------   | --------   | -------  | -------   | -------   | -------   |
 | Author         | L_Elliott | J_Mitchell | A_Levine | S_Bardyla,  Y_Péresse | C_Bleak,  J_Jonusas | R_Al_Kohli,  J_Belk, R_Cirpons,  B_de_Witt,  A_Evetts,  J_Hyde,  F_Matucci,  Z_Mesyan,  M_Morayne,  M_Pinsker |
 
