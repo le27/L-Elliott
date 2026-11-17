@@ -78,7 +78,7 @@ Currently working on more projects with the following authors [L Elliott], [L El
 Average paper length: $$(37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+12+21+15+33)/21 \approx 23.33$ pages.
 
 ##### Publication count
-11/20 of lunas papers are currently published in journals.
+11/21 of lunas papers are currently published in journals.
 
 ##### Previous Coauthors
 
