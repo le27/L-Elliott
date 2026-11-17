@@ -10,7 +10,7 @@ I have not yet used of AI to aid in my research. However it is likely that I or 
 The human emoji 🧑 marks any of my papers written by humans (which will be all of them). The robot emoji 🤖 will be used to mark papers written with the assistance of AI (currently none of them). I stole the cute emoji idea from [Cary Malkiewich](https://people.math.binghamton.edu/malkiewich/).
 
 ### Research Articles:
-1. 🧑 [R. Cirpons, L. Elliott, A. Levine, J Mitchell. Finite presentations for Thompson monoids](https://arxiv.org/pdf/2611.21237)
+1. 🧑 [R. Cirpons, L. Elliott, A. Levine, J Mitchell. Finite presentations for Thompson monoids, 2026](https://arxiv.org/pdf/2611.21237)
 
 1. 🧑[S. Bardyla, L. Elliott, Y. Péresse. Maximal subgroups of homeomorphism groups, 2026](https://arxiv.org/abs/2608.28211)[Submitted to the Japanese Journal of Mathematics]
 
