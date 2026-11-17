@@ -75,7 +75,7 @@ The human emoji 🧑 marks any of my papers written by humans (which will be all
 Currently working on more projects with the following authors [L Elliott], [L Elliott + A Levine], [L Elliott + G Crowe], [L Elliott + S Bardyla]x2, [L Elliott + N Kolodny].
 
 ##### Length of papers
-Average paper length: $$(37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+12+21+15+33)/21 \approx 23.33$ pages.
+Average paper length: $(37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+12+21+15+33)/21 \approx 23.33$ pages.
 
 ##### Publication count
 11/21 of lunas papers are currently published in journals.
