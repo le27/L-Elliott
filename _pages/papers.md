@@ -4,12 +4,14 @@ permalink: /papers/
 author_profile: true
 ---
 
-Last updated 15/11/2026
+Last updated 17/11/2026
 
 I have not yet used of AI to aid in my research. However it is likely that I or my coauthors will eventually opt to use AI as a tool to aid in our work. If this ever happens, my work will continue to be fully verified by me personally. In particular I will continue to take full responsibility for the mathematics in my papers. 
 The human emoji 🧑 marks any of my papers written by humans (which will be all of them). The robot emoji 🤖 will be used to mark papers written with the assistance of AI (currently none of them). I stole the cute emoji idea from [Cary Malkiewich](https://people.math.binghamton.edu/malkiewich/).
 
 ### Research Articles:
+1. 🧑 [R. Cirpons, L. Elliott, A. Levine, J Mitchell. Finite presentations for Thompson monoids](https://arxiv.org/pdf/2611.21237)
+
 1. 🧑[S. Bardyla, L. Elliott, Y. Péresse. Maximal subgroups of homeomorphism groups, 2026](https://arxiv.org/abs/2608.28211)[Submitted to the Japanese Journal of Mathematics]
 
 1. 🧑[S Bardyla, L Elliott. Polish topologies on endomorphism monoids of linear orders, 2026](https://arxiv.org/abs/2605.26906)[Submitted to Journal of the Institute of Mathematics of Jussieu]
@@ -70,19 +72,19 @@ The human emoji 🧑 marks any of my papers written by humans (which will be all
 
 ### Other random info luna wanted to track:
 ##### Current Projects
-Currently working on more projects with the following authors [L Elliott], [L Elliott + A Levine], [L Elliott + G Crowe], [L Elliott + S Bardyla]x2, [L Elliott + R Cirpons + A Levine + J Mitchell], [L Elliott + N Kolodny].
+Currently working on more projects with the following authors [L Elliott], [L Elliott + A Levine], [L Elliott + G Crowe], [L Elliott + S Bardyla]x2, [L Elliott + N Kolodny].
 
 ##### Length of papers
-Average paper length: $$(37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+12+21+15)/20 \approx 22.85$$ pages.
+Average paper length: $$(37+17+52+39+10+21+9+19+23+38+23+22+21+10+12+13+43+12+21+15+33)/21 \approx 23.33$ pages.
 
 ##### Publication count
 11/20 of lunas papers are currently published in journals.
 
 ##### Previous Coauthors
 
-| Joint_Papers count:  | 20        | 8          | 6        | 5                 | 2                | 1            |
+| Joint_Papers count:  | 20        | 9          | 7        | 5                 | 2                | 1            |
 | --------       | -------   | --------   | -------  | -------   | -------   | -------   |
-| Author         | L_Elliott | J_Mitchell | A_Levine | S_Bardyla,  Y_Péresse | C_Bleak,  J_Jonusas | R_Al_Kohli,  J_Belk,  B_de_Witt,  A_Evetts,  J_Hyde,  F_Matucci,  Z_Mesyan,  M_Morayne,  M_Pinsker |
+| Author         | L_Elliott | J_Mitchell | A_Levine | S_Bardyla,  Y_Péresse | C_Bleak,  J_Jonusas | R_Al_Kohli,  J_Belk, R_Cirpons,  B_de_Witt,  A_Evetts,  J_Hyde,  F_Matucci,  Z_Mesyan,  M_Morayne,  M_Pinsker |
 
 
 
